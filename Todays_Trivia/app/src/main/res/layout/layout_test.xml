@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Pick a Category from below"
+        android:id="@+id/textView"
+        android:onClick="onClick"
+        android:clickable="true"
+        android:textAlignment="center"
+        android:textSize="30dp" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="History"
+        android:id="@+id/buttonHistory"
+        android:layout_gravity="center_horizontal"
+        android:gravity="center_vertical"
+        android:layout_centerVertical="true"
+        android:layout_alignLeft="@+id/buttonSports"
+        android:layout_alignStart="@+id/buttonSports" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/buttonEntertainment"
+        android:text="Entertainment"
+        android:layout_marginBottom="72dp"
+        android:layout_above="@+id/buttonHistory"
+        android:layout_centerHorizontal="true" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Sports"
+        android:id="@+id/buttonSports"
+        android:layout_alignBaseline="@+id/buttonMenu"
+        android:layout_alignBottom="@+id/buttonMenu"
+        android:layout_alignLeft="@+id/buttonMenu"
+        android:layout_alignStart="@+id/buttonMenu"
+        android:gravity="center_vertical|center_horizontal" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Menu"
+        android:id="@+id/buttonMenu"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true" />
+</RelativeLayout>

@@ -1,0 +1,5475 @@
+line 1this is the history question for date 1
+line 2A
+line 3B
+line 4C
+line 5D
+line 6this is the entertainment question for date 1
+line 7A
+line 8B
+line 9C
+line 10D
+line 11this is the sports question for date 1
+line 12A
+line 13B
+line 14C
+line 15D
+line 16this is the history question for date 2
+line 17A
+line 18B
+line 19C
+line 20D
+line 21this is the entertainment question for date 2
+line 22A
+line 23B
+line 24C
+line 25D
+line 26this is the sports question for date 2
+line 27A
+line 28B
+line 29C
+line 30D
+line 31this is the history question for date 3
+line 32A
+line 33B
+line 34C
+line 35D
+line 36this is the entertainment question for date 3
+line 37A
+line 38B
+line 39C
+line 40D
+line 41this is the sports question for date 3
+line 42A
+line 43B
+line 44C
+line 45D
+line 46this is the history question for date 4
+line 47A
+line 48B
+line 49C
+line 50D
+line 51this is the entertainment question for date 4
+line 52A
+line 53B
+line 54C
+line 55D
+line 56this is the sports question for date 4
+line 57A
+line 58B
+line 59C
+line 60D
+line 61this is the history question for date 5
+line 62A
+line 63B
+line 64C
+line 65D
+line 66this is the entertainment question for date 5
+line 67A
+line 68B
+line 69C
+line 70D
+line 71this is the sports question for date 5
+line 72A
+line 73B
+line 74C
+line 75D
+line 76this is the history question for date 6
+line 77A
+line 78B
+line 79C
+line 80D
+line 81this is the entertainment question for date 6
+line 82A
+line 83B
+line 84C
+line 85D
+line 86this is the sports question for date 6
+line 87A
+line 88B
+line 89C
+line 90D
+line 91this is the history question for date 7
+line 92A
+line 93B
+line 94C
+line 95D
+line 96this is the entertainment question for date 7
+line 97A
+line 98B
+line 99C
+line 100D
+line 101this is the sports question for date 7
+line 102A
+line 103B
+line 104C
+line 105D
+line 106this is the history question for date 8
+line 107A
+line 108B
+line 109C
+line 110D
+line 111this is the entertainment question for date 8
+line 112A
+line 113B
+line 114C
+line 115D
+line 116this is the sports question for date 8
+line 117A
+line 118B
+line 119C
+line 120D
+line 121this is the history question for date 9
+line 122A
+line 123B
+line 124C
+line 125D
+line 126this is the entertainment question for date 9
+line 127A
+line 128B
+line 129C
+line 130D
+line 131this is the sports question for date 9
+line 132A
+line 133B
+line 134C
+line 135D
+line 136this is the history question for date 10
+line 137A
+line 138B
+line 139C
+line 140D
+line 141this is the entertainment question for date 10
+line 142A
+line 143B
+line 144C
+line 145D
+line 146this is the sports question for date 10
+line 147A
+line 148B
+line 149C
+line 150D
+line 151this is the history question for date 11
+line 152A
+line 153B
+line 154C
+line 155D
+line 156this is the entertainment question for date 11
+line 157A
+line 158B
+line 159C
+line 160D
+line 161this is the sports question for date 11
+line 162A
+line 163B
+line 164C
+line 165D
+line 166this is the history question for date 12
+line 167A
+line 168B
+line 169C
+line 170D
+line 171this is the entertainment question for date 12
+line 172A
+line 173B
+line 174C
+line 175D
+line 176this is the sports question for date 12
+line 177A
+line 178B
+line 179C
+line 180D
+line 181this is the history question for date 13
+line 182A
+line 183B
+line 184C
+line 185D
+line 186this is the entertainment question for date 13
+line 187A
+line 188B
+line 189C
+line 190D
+line 191this is the sports question for date 13
+line 192A
+line 193B
+line 194C
+line 195D
+line 196this is the history question for date 14
+line 197A
+line 198B
+line 199C
+line 200D
+line 201this is the entertainment question for date 14
+line 202A
+line 203B
+line 204C
+line 205D
+line 206this is the sports question for date 14
+line 207A
+line 208B
+line 209C
+line 210D
+line 211this is the history question for date 15
+line 212A
+line 213B
+line 214C
+line 215D
+line 216this is the entertainment question for date 15
+line 217A
+line 218B
+line 219C
+line 220D
+line 221this is the sports question for date 15
+line 222A
+line 223B
+line 224C
+line 225D
+line 226this is the history question for date 16
+line 227A
+line 228B
+line 229C
+line 230D
+line 231this is the entertainment question for date 16
+line 232A
+line 233B
+line 234C
+line 235D
+line 236this is the sports question for date 16
+line 237A
+line 238B
+line 239C
+line 240D
+line 241this is the history question for date 17
+line 242A
+line 243B
+line 244C
+line 245D
+line 246this is the entertainment question for date 17
+line 247A
+line 248B
+line 249C
+line 250D
+line 251this is the sports question for date 17
+line 252A
+line 253B
+line 254C
+line 255D
+line 256this is the history question for date 18
+line 257A
+line 258B
+line 259C
+line 260D
+line 261this is the entertainment question for date 18
+line 262A
+line 263B
+line 264C
+line 265D
+line 266this is the sports question for date 18
+line 267A
+line 268B
+line 269C
+line 270D
+line 271this is the history question for date 19
+line 272A
+line 273B
+line 274C
+line 275D
+line 276this is the entertainment question for date 19
+line 277A
+line 278B
+line 279C
+line 280D
+line 281this is the sports question for date 19
+line 282A
+line 283B
+line 284C
+line 285D
+line 286this is the history question for date 20
+line 287A
+line 288B
+line 289C
+line 290D
+line 291this is the entertainment question for date 20
+line 292A
+line 293B
+line 294C
+line 295D
+line 296this is the sports question for date 20
+line 297A
+line 298B
+line 299C
+line 300D
+line 301this is the history question for date 21
+line 302A
+line 303B
+line 304C
+line 305D
+line 306this is the entertainment question for date 21
+line 307A
+line 308B
+line 309C
+line 310D
+line 311this is the sports question for date 21
+line 312A
+line 313B
+line 314C
+line 315D
+line 316this is the history question for date 22
+line 317A
+line 318B
+line 319C
+line 320D
+line 321this is the entertainment question for date 22
+line 322A
+line 323B
+line 324C
+line 325D
+line 326this is the sports question for date 22
+line 327A
+line 328B
+line 329C
+line 330D
+line 331this is the history question for date 23
+line 332A
+line 333B
+line 334C
+line 335D
+line 336this is the entertainment question for date 23
+line 337A
+line 338B
+line 339C
+line 340D
+line 341this is the sports question for date 23
+line 342A
+line 343B
+line 344C
+line 345D
+line 346this is the history question for date 24
+line 347A
+line 348B
+line 349C
+line 350D
+line 351this is the entertainment question for date 24
+line 352A
+line 353B
+line 354C
+line 355D
+line 356this is the sports question for date 24
+line 357A
+line 358B
+line 359C
+line 360D
+line 361this is the history question for date 25
+line 362A
+line 363B
+line 364C
+line 365D
+line 366this is the entertainment question for date 25
+line 367A
+line 368B
+line 369C
+line 370D
+line 371this is the sports question for date 25
+line 372A
+line 373B
+line 374C
+line 375D
+line 376this is the history question for date 26
+line 377A
+line 378B
+line 379C
+line 380D
+line 381this is the entertainment question for date 26
+line 382A
+line 383B
+line 384C
+line 385D
+line 386this is the sports question for date 26
+line 387A
+line 388B
+line 389C
+line 390D
+line 391this is the history question for date 27
+line 392A
+line 393B
+line 394C
+line 395D
+line 396this is the entertainment question for date 27
+line 397A
+line 398B
+line 399C
+line 400D
+line 401this is the sports question for date 27
+line 402A
+line 403B
+line 404C
+line 405D
+line 406this is the history question for date 28
+line 407A
+line 408B
+line 409C
+line 410D
+line 411this is the entertainment question for date 28
+line 412A
+line 413B
+line 414C
+line 415D
+line 416this is the sports question for date 28
+line 417A
+line 418B
+line 419C
+line 420D
+line 421this is the history question for date 29
+line 422A
+line 423B
+line 424C
+line 425D
+line 426this is the entertainment question for date 29
+line 427A
+line 428B
+line 429C
+line 430D
+line 431this is the sports question for date 29
+line 432A
+line 433B
+line 434C
+line 435D
+line 436this is the history question for date 30
+line 437A
+line 438B
+line 439C
+line 440D
+line 441this is the entertainment question for date 30
+line 442A
+line 443B
+line 444C
+line 445D
+line 446this is the sports question for date 30
+line 447A
+line 448B
+line 449C
+line 450D
+line 451this is the history question for date 31
+line 452A
+line 453B
+line 454C
+line 455D
+line 456this is the entertainment question for date 31
+line 457A
+line 458B
+line 459C
+line 460D
+line 461this is the sports question for date 31
+line 462A
+line 463B
+line 464C
+line 465D
+line 466this is the history question for date 32
+line 467A
+line 468B
+line 469C
+line 470D
+line 471this is the entertainment question for date 32
+line 472A
+line 473B
+line 474C
+line 475D
+line 476this is the sports question for date 32
+line 477A
+line 478B
+line 479C
+line 480D
+line 481this is the history question for date 33
+line 482A
+line 483B
+line 484C
+line 485D
+line 486this is the entertainment question for date 33
+line 487A
+line 488B
+line 489C
+line 490D
+line 491this is the sports question for date 33
+line 492A
+line 493B
+line 494C
+line 495D
+line 496this is the history question for date 34
+line 497A
+line 498B
+line 499C
+line 500D
+line 501this is the entertainment question for date 34
+line 502A
+line 503B
+line 504C
+line 505D
+line 506this is the sports question for date 34
+line 507A
+line 508B
+line 509C
+line 510D
+line 511this is the history question for date 35
+line 512A
+line 513B
+line 514C
+line 515D
+line 516this is the entertainment question for date 35
+line 517A
+line 518B
+line 519C
+line 520D
+line 521this is the sports question for date 35
+line 522A
+line 523B
+line 524C
+line 525D
+line 526this is the history question for date 36
+line 527A
+line 528B
+line 529C
+line 530D
+line 531this is the entertainment question for date 36
+line 532A
+line 533B
+line 534C
+line 535D
+line 536this is the sports question for date 36
+line 537A
+line 538B
+line 539C
+line 540D
+line 541this is the history question for date 37
+line 542A
+line 543B
+line 544C
+line 545D
+line 546this is the entertainment question for date 37
+line 547A
+line 548B
+line 549C
+line 550D
+line 551this is the sports question for date 37
+line 552A
+line 553B
+line 554C
+line 555D
+line 556this is the history question for date 38
+line 557A
+line 558B
+line 559C
+line 560D
+line 561this is the entertainment question for date 38
+line 562A
+line 563B
+line 564C
+line 565D
+line 566this is the sports question for date 38
+line 567A
+line 568B
+line 569C
+line 570D
+line 571this is the history question for date 39
+line 572A
+line 573B
+line 574C
+line 575D
+line 576this is the entertainment question for date 39
+line 577A
+line 578B
+line 579C
+line 580D
+line 581this is the sports question for date 39
+line 582A
+line 583B
+line 584C
+line 585D
+line 586this is the history question for date 40
+line 587A
+line 588B
+line 589C
+line 590D
+line 591this is the entertainment question for date 40
+line 592A
+line 593B
+line 594C
+line 595D
+line 596this is the sports question for date 40
+line 597A
+line 598B
+line 599C
+line 600D
+line 601this is the history question for date 41
+line 602A
+line 603B
+line 604C
+line 605D
+line 606this is the entertainment question for date 41
+line 607A
+line 608B
+line 609C
+line 610D
+line 611this is the sports question for date 41
+line 612A
+line 613B
+line 614C
+line 615D
+line 616this is the history question for date 42
+line 617A
+line 618B
+line 619C
+line 620D
+line 621this is the entertainment question for date 42
+line 622A
+line 623B
+line 624C
+line 625D
+line 626this is the sports question for date 42
+line 627A
+line 628B
+line 629C
+line 630D
+line 631this is the history question for date 43
+line 632A
+line 633B
+line 634C
+line 635D
+line 636this is the entertainment question for date 43
+line 637A
+line 638B
+line 639C
+line 640D
+line 641this is the sports question for date 43
+line 642A
+line 643B
+line 644C
+line 645D
+line 646this is the history question for date 44
+line 647A
+line 648B
+line 649C
+line 650D
+line 651this is the entertainment question for date 44
+line 652A
+line 653B
+line 654C
+line 655D
+line 656this is the sports question for date 44
+line 657A
+line 658B
+line 659C
+line 660D
+line 661this is the history question for date 45
+line 662A
+line 663B
+line 664C
+line 665D
+line 666this is the entertainment question for date 45
+line 667A
+line 668B
+line 669C
+line 670D
+line 671this is the sports question for date 45
+line 672A
+line 673B
+line 674C
+line 675D
+line 676this is the history question for date 46
+line 677A
+line 678B
+line 679C
+line 680D
+line 681this is the entertainment question for date 46
+line 682A
+line 683B
+line 684C
+line 685D
+line 686this is the sports question for date 46
+line 687A
+line 688B
+line 689C
+line 690D
+line 691this is the history question for date 47
+line 692A
+line 693B
+line 694C
+line 695D
+line 696this is the entertainment question for date 47
+line 697A
+line 698B
+line 699C
+line 700D
+line 701this is the sports question for date 47
+line 702A
+line 703B
+line 704C
+line 705D
+line 706this is the history question for date 48
+line 707A
+line 708B
+line 709C
+line 710D
+line 711this is the entertainment question for date 48
+line 712A
+line 713B
+line 714C
+line 715D
+line 716this is the sports question for date 48
+line 717A
+line 718B
+line 719C
+line 720D
+line 721this is the history question for date 49
+line 722A
+line 723B
+line 724C
+line 725D
+line 726this is the entertainment question for date 49
+line 727A
+line 728B
+line 729C
+line 730D
+line 731this is the sports question for date 49
+line 732A
+line 733B
+line 734C
+line 735D
+line 736this is the history question for date 50
+line 737A
+line 738B
+line 739C
+line 740D
+line 741this is the entertainment question for date 50
+line 742A
+line 743B
+line 744C
+line 745D
+line 746this is the sports question for date 50
+line 747A
+line 748B
+line 749C
+line 750D
+line 751this is the history question for date 51
+line 752A
+line 753B
+line 754C
+line 755D
+line 756this is the entertainment question for date 51
+line 757A
+line 758B
+line 759C
+line 760D
+line 761this is the sports question for date 51
+line 762A
+line 763B
+line 764C
+line 765D
+line 766this is the history question for date 52
+line 767A
+line 768B
+line 769C
+line 770D
+line 771this is the entertainment question for date 52
+line 772A
+line 773B
+line 774C
+line 775D
+line 776this is the sports question for date 52
+line 777A
+line 778B
+line 779C
+line 780D
+line 781this is the history question for date 53
+line 782A
+line 783B
+line 784C
+line 785D
+line 786this is the entertainment question for date 53
+line 787A
+line 788B
+line 789C
+line 790D
+line 791this is the sports question for date 53
+line 792A
+line 793B
+line 794C
+line 795D
+line 796this is the history question for date 54
+line 797A
+line 798B
+line 799C
+line 800D
+line 801this is the entertainment question for date 54
+line 802A
+line 803B
+line 804C
+line 805D
+line 806this is the sports question for date 54
+line 807A
+line 808B
+line 809C
+line 810D
+line 811this is the history question for date 55
+line 812A
+line 813B
+line 814C
+line 815D
+line 816this is the entertainment question for date 55
+line 817A
+line 818B
+line 819C
+line 820D
+line 821this is the sports question for date 55
+line 822A
+line 823B
+line 824C
+line 825D
+line 826this is the history question for date 56
+line 827A
+line 828B
+line 829C
+line 830D
+line 831this is the entertainment question for date 56
+line 832A
+line 833B
+line 834C
+line 835D
+line 836this is the sports question for date 56
+line 837A
+line 838B
+line 839C
+line 840D
+line 841this is the history question for date 57
+line 842A
+line 843B
+line 844C
+line 845D
+line 846this is the entertainment question for date 57
+line 847A
+line 848B
+line 849C
+line 850D
+line 851this is the sports question for date 57
+line 852A
+line 853B
+line 854C
+line 855D
+line 856this is the history question for date 58
+line 857A
+line 858B
+line 859C
+line 860D
+line 861this is the entertainment question for date 58
+line 862A
+line 863B
+line 864C
+line 865D
+line 866this is the sports question for date 58
+line 867A
+line 868B
+line 869C
+line 870D
+line 871this is the history question for date 59
+line 872A
+line 873B
+line 874C
+line 875D
+line 876this is the entertainment question for date 59
+line 877A
+line 878B
+line 879C
+line 880D
+line 881this is the sports question for date 59
+line 882A
+line 883B
+line 884C
+line 885D
+line 886this is the history question for date 60
+line 887A
+line 888B
+line 889C
+line 890D
+line 891this is the entertainment question for date 60
+line 892A
+line 893B
+line 894C
+line 895D
+line 896this is the sports question for date 60
+line 897A
+line 898B
+line 899C
+line 900D
+line 901this is the history question for date 61
+line 902A
+line 903B
+line 904C
+line 905D
+line 906this is the entertainment question for date 61
+line 907A
+line 908B
+line 909C
+line 910D
+line 911this is the sports question for date 61
+line 912A
+line 913B
+line 914C
+line 915D
+line 916this is the history question for date 62
+line 917A
+line 918B
+line 919C
+line 920D
+line 921this is the entertainment question for date 62
+line 922A
+line 923B
+line 924C
+line 925D
+line 926this is the sports question for date 62
+line 927A
+line 928B
+line 929C
+line 930D
+line 931this is the history question for date 63
+line 932A
+line 933B
+line 934C
+line 935D
+line 936this is the entertainment question for date 63
+line 937A
+line 938B
+line 939C
+line 940D
+line 941this is the sports question for date 63
+line 942A
+line 943B
+line 944C
+line 945D
+line 946this is the history question for date 64
+line 947A
+line 948B
+line 949C
+line 950D
+line 951this is the entertainment question for date 64
+line 952A
+line 953B
+line 954C
+line 955D
+line 956this is the sports question for date 64
+line 957A
+line 958B
+line 959C
+line 960D
+line 961this is the history question for date 65
+line 962A
+line 963B
+line 964C
+line 965D
+line 966this is the entertainment question for date 65
+line 967A
+line 968B
+line 969C
+line 970D
+line 971this is the sports question for date 65
+line 972A
+line 973B
+line 974C
+line 975D
+line 976this is the history question for date 66
+line 977A
+line 978B
+line 979C
+line 980D
+line 981this is the entertainment question for date 66
+line 982A
+line 983B
+line 984C
+line 985D
+line 986this is the sports question for date 66
+line 987A
+line 988B
+line 989C
+line 990D
+line 991this is the history question for date 67
+line 992A
+line 993B
+line 994C
+line 995D
+line 996this is the entertainment question for date 67
+line 997A
+line 998B
+line 999C
+line 1000D
+line 1001this is the sports question for date 67
+line 1002A
+line 1003B
+line 1004C
+line 1005D
+line 1006this is the history question for date 68
+line 1007A
+line 1008B
+line 1009C
+line 1010D
+line 1011this is the entertainment question for date 68
+line 1012A
+line 1013B
+line 1014C
+line 1015D
+line 1016this is the sports question for date 68
+line 1017A
+line 1018B
+line 1019C
+line 1020D
+line 1021this is the history question for date 69
+line 1022A
+line 1023B
+line 1024C
+line 1025D
+line 1026this is the entertainment question for date 69
+line 1027A
+line 1028B
+line 1029C
+line 1030D
+line 1031this is the sports question for date 69
+line 1032A
+line 1033B
+line 1034C
+line 1035D
+line 1036this is the history question for date 70
+line 1037A
+line 1038B
+line 1039C
+line 1040D
+line 1041this is the entertainment question for date 70
+line 1042A
+line 1043B
+line 1044C
+line 1045D
+line 1046this is the sports question for date 70
+line 1047A
+line 1048B
+line 1049C
+line 1050D
+line 1051this is the history question for date 71
+line 1052A
+line 1053B
+line 1054C
+line 1055D
+line 1056this is the entertainment question for date 71
+line 1057A
+line 1058B
+line 1059C
+line 1060D
+line 1061this is the sports question for date 71
+line 1062A
+line 1063B
+line 1064C
+line 1065D
+line 1066this is the history question for date 72
+line 1067A
+line 1068B
+line 1069C
+line 1070D
+line 1071this is the entertainment question for date 72
+line 1072A
+line 1073B
+line 1074C
+line 1075D
+line 1076this is the sports question for date 72
+line 1077A
+line 1078B
+line 1079C
+line 1080D
+line 1081this is the history question for date 73
+line 1082A
+line 1083B
+line 1084C
+line 1085D
+line 1086this is the entertainment question for date 73
+line 1087A
+line 1088B
+line 1089C
+line 1090D
+line 1091this is the sports question for date 73
+line 1092A
+line 1093B
+line 1094C
+line 1095D
+line 1096this is the history question for date 74
+line 1097A
+line 1098B
+line 1099C
+line 1100D
+line 1101this is the entertainment question for date 74
+line 1102A
+line 1103B
+line 1104C
+line 1105D
+line 1106this is the sports question for date 74
+line 1107A
+line 1108B
+line 1109C
+line 1110D
+line 1111this is the history question for date 75
+line 1112A
+line 1113B
+line 1114C
+line 1115D
+line 1116this is the entertainment question for date 75
+line 1117A
+line 1118B
+line 1119C
+line 1120D
+line 1121this is the sports question for date 75
+line 1122A
+line 1123B
+line 1124C
+line 1125D
+line 1126this is the history question for date 76
+line 1127A
+line 1128B
+line 1129C
+line 1130D
+line 1131this is the entertainment question for date 76
+line 1132A
+line 1133B
+line 1134C
+line 1135D
+line 1136this is the sports question for date 76
+line 1137A
+line 1138B
+line 1139C
+line 1140D
+line 1141this is the history question for date 77
+line 1142A
+line 1143B
+line 1144C
+line 1145D
+line 1146this is the entertainment question for date 77
+line 1147A
+line 1148B
+line 1149C
+line 1150D
+line 1151this is the sports question for date 77
+line 1152A
+line 1153B
+line 1154C
+line 1155D
+line 1156this is the history question for date 78
+line 1157A
+line 1158B
+line 1159C
+line 1160D
+line 1161this is the entertainment question for date 78
+line 1162A
+line 1163B
+line 1164C
+line 1165D
+line 1166this is the sports question for date 78
+line 1167A
+line 1168B
+line 1169C
+line 1170D
+line 1171this is the history question for date 79
+line 1172A
+line 1173B
+line 1174C
+line 1175D
+line 1176this is the entertainment question for date 79
+line 1177A
+line 1178B
+line 1179C
+line 1180D
+line 1181this is the sports question for date 79
+line 1182A
+line 1183B
+line 1184C
+line 1185D
+line 1186this is the history question for date 80
+line 1187A
+line 1188B
+line 1189C
+line 1190D
+line 1191this is the entertainment question for date 80
+line 1192A
+line 1193B
+line 1194C
+line 1195D
+line 1196this is the sports question for date 80
+line 1197A
+line 1198B
+line 1199C
+line 1200D
+line 1201this is the history question for date 81
+line 1202A
+line 1203B
+line 1204C
+line 1205D
+line 1206this is the entertainment question for date 81
+line 1207A
+line 1208B
+line 1209C
+line 1210D
+line 1211this is the sports question for date 81
+line 1212A
+line 1213B
+line 1214C
+line 1215D
+line 1216this is the history question for date 82
+line 1217A
+line 1218B
+line 1219C
+line 1220D
+line 1221this is the entertainment question for date 82
+line 1222A
+line 1223B
+line 1224C
+line 1225D
+line 1226this is the sports question for date 82
+line 1227A
+line 1228B
+line 1229C
+line 1230D
+line 1231this is the history question for date 83
+line 1232A
+line 1233B
+line 1234C
+line 1235D
+line 1236this is the entertainment question for date 83
+line 1237A
+line 1238B
+line 1239C
+line 1240D
+line 1241this is the sports question for date 83
+line 1242A
+line 1243B
+line 1244C
+line 1245D
+line 1246this is the history question for date 84
+line 1247A
+line 1248B
+line 1249C
+line 1250D
+line 1251this is the entertainment question for date 84
+line 1252A
+line 1253B
+line 1254C
+line 1255D
+line 1256this is the sports question for date 84
+line 1257A
+line 1258B
+line 1259C
+line 1260D
+line 1261this is the history question for date 85
+line 1262A
+line 1263B
+line 1264C
+line 1265D
+line 1266this is the entertainment question for date 85
+line 1267A
+line 1268B
+line 1269C
+line 1270D
+line 1271this is the sports question for date 85
+line 1272A
+line 1273B
+line 1274C
+line 1275D
+line 1276this is the history question for date 86
+line 1277A
+line 1278B
+line 1279C
+line 1280D
+line 1281this is the entertainment question for date 86
+line 1282A
+line 1283B
+line 1284C
+line 1285D
+line 1286this is the sports question for date 86
+line 1287A
+line 1288B
+line 1289C
+line 1290D
+line 1291this is the history question for date 87
+line 1292A
+line 1293B
+line 1294C
+line 1295D
+line 1296this is the entertainment question for date 87
+line 1297A
+line 1298B
+line 1299C
+line 1300D
+line 1301this is the sports question for date 87
+line 1302A
+line 1303B
+line 1304C
+line 1305D
+line 1306this is the history question for date 88
+line 1307A
+line 1308B
+line 1309C
+line 1310D
+line 1311this is the entertainment question for date 88
+line 1312A
+line 1313B
+line 1314C
+line 1315D
+line 1316this is the sports question for date 88
+line 1317A
+line 1318B
+line 1319C
+line 1320D
+line 1321this is the history question for date 89
+line 1322A
+line 1323B
+line 1324C
+line 1325D
+line 1326this is the entertainment question for date 89
+line 1327A
+line 1328B
+line 1329C
+line 1330D
+line 1331this is the sports question for date 89
+line 1332A
+line 1333B
+line 1334C
+line 1335D
+line 1336this is the history question for date 90
+line 1337A
+line 1338B
+line 1339C
+line 1340D
+line 1341this is the entertainment question for date 90
+line 1342A
+line 1343B
+line 1344C
+line 1345D
+line 1346this is the sports question for date 90
+line 1347A
+line 1348B
+line 1349C
+line 1350D
+line 1351this is the history question for date 91
+line 1352A
+line 1353B
+line 1354C
+line 1355D
+line 1356this is the entertainment question for date 91
+line 1357A
+line 1358B
+line 1359C
+line 1360D
+line 1361this is the sports question for date 91
+line 1362A
+line 1363B
+line 1364C
+line 1365D
+line 1366this is the history question for date 92
+line 1367A
+line 1368B
+line 1369C
+line 1370D
+line 1371this is the entertainment question for date 92
+line 1372A
+line 1373B
+line 1374C
+line 1375D
+line 1376this is the sports question for date 92
+line 1377A
+line 1378B
+line 1379C
+line 1380D
+line 1381this is the history question for date 93
+line 1382A
+line 1383B
+line 1384C
+line 1385D
+line 1386this is the entertainment question for date 93
+line 1387A
+line 1388B
+line 1389C
+line 1390D
+line 1391this is the sports question for date 93
+line 1392A
+line 1393B
+line 1394C
+line 1395D
+line 1396this is the history question for date 94
+line 1397A
+line 1398B
+line 1399C
+line 1400D
+line 1401this is the entertainment question for date 94
+line 1402A
+line 1403B
+line 1404C
+line 1405D
+line 1406this is the sports question for date 94
+line 1407A
+line 1408B
+line 1409C
+line 1410D
+line 1411this is the history question for date 95
+line 1412A
+line 1413B
+line 1414C
+line 1415D
+line 1416this is the entertainment question for date 95
+line 1417A
+line 1418B
+line 1419C
+line 1420D
+line 1421this is the sports question for date 95
+line 1422A
+line 1423B
+line 1424C
+line 1425D
+line 1426this is the history question for date 96
+line 1427A
+line 1428B
+line 1429C
+line 1430D
+line 1431this is the entertainment question for date 96
+line 1432A
+line 1433B
+line 1434C
+line 1435D
+line 1436this is the sports question for date 96
+line 1437A
+line 1438B
+line 1439C
+line 1440D
+line 1441this is the history question for date 97
+line 1442A
+line 1443B
+line 1444C
+line 1445D
+line 1446this is the entertainment question for date 97
+line 1447A
+line 1448B
+line 1449C
+line 1450D
+line 1451this is the sports question for date 97
+line 1452A
+line 1453B
+line 1454C
+line 1455D
+line 1456this is the history question for date 98
+line 1457A
+line 1458B
+line 1459C
+line 1460D
+line 1461this is the entertainment question for date 98
+line 1462A
+line 1463B
+line 1464C
+line 1465D
+line 1466this is the sports question for date 98
+line 1467A
+line 1468B
+line 1469C
+line 1470D
+line 1471this is the history question for date 99
+line 1472A
+line 1473B
+line 1474C
+line 1475D
+line 1476this is the entertainment question for date 99
+line 1477A
+line 1478B
+line 1479C
+line 1480D
+line 1481this is the sports question for date 99
+line 1482A
+line 1483B
+line 1484C
+line 1485D
+line 1486this is the history question for date 100
+line 1487A
+line 1488B
+line 1489C
+line 1490D
+line 1491this is the entertainment question for date 100
+line 1492A
+line 1493B
+line 1494C
+line 1495D
+line 1496this is the sports question for date 100
+line 1497A
+line 1498B
+line 1499C
+line 1500D
+line 1501this is the history question for date 101
+line 1502A
+line 1503B
+line 1504C
+line 1505D
+line 1506this is the entertainment question for date 101
+line 1507A
+line 1508B
+line 1509C
+line 1510D
+line 1511this is the sports question for date 101
+line 1512A
+line 1513B
+line 1514C
+line 1515D
+line 1516this is the history question for date 102
+line 1517A
+line 1518B
+line 1519C
+line 1520D
+line 1521this is the entertainment question for date 102
+line 1522A
+line 1523B
+line 1524C
+line 1525D
+line 1526this is the sports question for date 102
+line 1527A
+line 1528B
+line 1529C
+line 1530D
+line 1531this is the history question for date 103
+line 1532A
+line 1533B
+line 1534C
+line 1535D
+line 1536this is the entertainment question for date 103
+line 1537A
+line 1538B
+line 1539C
+line 1540D
+line 1541this is the sports question for date 103
+line 1542A
+line 1543B
+line 1544C
+line 1545D
+line 1546this is the history question for date 104
+line 1547A
+line 1548B
+line 1549C
+line 1550D
+line 1551this is the entertainment question for date 104
+line 1552A
+line 1553B
+line 1554C
+line 1555D
+line 1556this is the sports question for date 104
+line 1557A
+line 1558B
+line 1559C
+line 1560D
+line 1561this is the history question for date 105
+line 1562A
+line 1563B
+line 1564C
+line 1565D
+line 1566this is the entertainment question for date 105
+line 1567A
+line 1568B
+line 1569C
+line 1570D
+line 1571this is the sports question for date 105
+line 1572A
+line 1573B
+line 1574C
+line 1575D
+line 1576this is the history question for date 106
+line 1577A
+line 1578B
+line 1579C
+line 1580D
+line 1581this is the entertainment question for date 106
+line 1582A
+line 1583B
+line 1584C
+line 1585D
+line 1586this is the sports question for date 106
+line 1587A
+line 1588B
+line 1589C
+line 1590D
+line 1591this is the history question for date 107
+line 1592A
+line 1593B
+line 1594C
+line 1595D
+line 1596this is the entertainment question for date 107
+line 1597A
+line 1598B
+line 1599C
+line 1600D
+line 1601this is the sports question for date 107
+line 1602A
+line 1603B
+line 1604C
+line 1605D
+line 1606this is the history question for date 108
+line 1607A
+line 1608B
+line 1609C
+line 1610D
+line 1611this is the entertainment question for date 108
+line 1612A
+line 1613B
+line 1614C
+line 1615D
+line 1616this is the sports question for date 108
+line 1617A
+line 1618B
+line 1619C
+line 1620D
+line 1621this is the history question for date 109
+line 1622A
+line 1623B
+line 1624C
+line 1625D
+line 1626this is the entertainment question for date 109
+line 1627A
+line 1628B
+line 1629C
+line 1630D
+line 1631this is the sports question for date 109
+line 1632A
+line 1633B
+line 1634C
+line 1635D
+line 1636this is the history question for date 110
+line 1637A
+line 1638B
+line 1639C
+line 1640D
+line 1641this is the entertainment question for date 110
+line 1642A
+line 1643B
+line 1644C
+line 1645D
+line 1646this is the sports question for date 110
+line 1647A
+line 1648B
+line 1649C
+line 1650D
+line 1651this is the history question for date 111
+line 1652A
+line 1653B
+line 1654C
+line 1655D
+line 1656this is the entertainment question for date 111
+line 1657A
+line 1658B
+line 1659C
+line 1660D
+line 1661this is the sports question for date 111
+line 1662A
+line 1663B
+line 1664C
+line 1665D
+line 1666this is the history question for date 112
+line 1667A
+line 1668B
+line 1669C
+line 1670D
+line 1671this is the entertainment question for date 112
+line 1672A
+line 1673B
+line 1674C
+line 1675D
+line 1676this is the sports question for date 112
+line 1677A
+line 1678B
+line 1679C
+line 1680D
+line 1681this is the history question for date 113
+line 1682A
+line 1683B
+line 1684C
+line 1685D
+line 1686this is the entertainment question for date 113
+line 1687A
+line 1688B
+line 1689C
+line 1690D
+line 1691this is the sports question for date 113
+line 1692A
+line 1693B
+line 1694C
+line 1695D
+line 1696this is the history question for date 114
+line 1697A
+line 1698B
+line 1699C
+line 1700D
+line 1701this is the entertainment question for date 114
+line 1702A
+line 1703B
+line 1704C
+line 1705D
+line 1706this is the sports question for date 114
+line 1707A
+line 1708B
+line 1709C
+line 1710D
+line 1711this is the history question for date 115
+line 1712A
+line 1713B
+line 1714C
+line 1715D
+line 1716this is the entertainment question for date 115
+line 1717A
+line 1718B
+line 1719C
+line 1720D
+line 1721this is the sports question for date 115
+line 1722A
+line 1723B
+line 1724C
+line 1725D
+line 1726this is the history question for date 116
+line 1727A
+line 1728B
+line 1729C
+line 1730D
+line 1731this is the entertainment question for date 116
+line 1732A
+line 1733B
+line 1734C
+line 1735D
+line 1736this is the sports question for date 116
+line 1737A
+line 1738B
+line 1739C
+line 1740D
+line 1741this is the history question for date 117
+line 1742A
+line 1743B
+line 1744C
+line 1745D
+line 1746this is the entertainment question for date 117
+line 1747A
+line 1748B
+line 1749C
+line 1750D
+line 1751this is the sports question for date 117
+line 1752A
+line 1753B
+line 1754C
+line 1755D
+line 1756this is the history question for date 118
+line 1757A
+line 1758B
+line 1759C
+line 1760D
+line 1761this is the entertainment question for date 118
+line 1762A
+line 1763B
+line 1764C
+line 1765D
+line 1766this is the sports question for date 118
+line 1767A
+line 1768B
+line 1769C
+line 1770D
+line 1771this is the history question for date 119
+line 1772A
+line 1773B
+line 1774C
+line 1775D
+line 1776this is the entertainment question for date 119
+line 1777A
+line 1778B
+line 1779C
+line 1780D
+line 1781this is the sports question for date 119
+line 1782A
+line 1783B
+line 1784C
+line 1785D
+line 1786this is the history question for date 120
+line 1787A
+line 1788B
+line 1789C
+line 1790D
+line 1791this is the entertainment question for date 120
+line 1792A
+line 1793B
+line 1794C
+line 1795D
+line 1796this is the sports question for date 120
+line 1797A
+line 1798B
+line 1799C
+line 1800D
+line 1801this is the history question for date 121
+line 1802A
+line 1803B
+line 1804C
+line 1805D
+line 1806this is the entertainment question for date 121
+line 1807A
+line 1808B
+line 1809C
+line 1810D
+line 1811this is the sports question for date 121
+line 1812A
+line 1813B
+line 1814C
+line 1815D
+line 1816this is the history question for date 122
+line 1817A
+line 1818B
+line 1819C
+line 1820D
+line 1821this is the entertainment question for date 122
+line 1822A
+line 1823B
+line 1824C
+line 1825D
+line 1826this is the sports question for date 122
+line 1827A
+line 1828B
+line 1829C
+line 1830D
+line 1831this is the history question for date 123
+line 1832A
+line 1833B
+line 1834C
+line 1835D
+line 1836this is the entertainment question for date 123
+line 1837A
+line 1838B
+line 1839C
+line 1840D
+line 1841this is the sports question for date 123
+line 1842A
+line 1843B
+line 1844C
+line 1845D
+line 1846this is the history question for date 124
+line 1847A
+line 1848B
+line 1849C
+line 1850D
+line 1851this is the entertainment question for date 124
+line 1852A
+line 1853B
+line 1854C
+line 1855D
+line 1856this is the sports question for date 124
+line 1857A
+line 1858B
+line 1859C
+line 1860D
+line 1861this is the history question for date 125
+line 1862A
+line 1863B
+line 1864C
+line 1865D
+line 1866this is the entertainment question for date 125
+line 1867A
+line 1868B
+line 1869C
+line 1870D
+line 1871this is the sports question for date 125
+line 1872A
+line 1873B
+line 1874C
+line 1875D
+line 1876this is the history question for date 126
+line 1877A
+line 1878B
+line 1879C
+line 1880D
+line 1881this is the entertainment question for date 126
+line 1882A
+line 1883B
+line 1884C
+line 1885D
+line 1886this is the sports question for date 126
+line 1887A
+line 1888B
+line 1889C
+line 1890D
+line 1891this is the history question for date 127
+line 1892A
+line 1893B
+line 1894C
+line 1895D
+line 1896this is the entertainment question for date 127
+line 1897A
+line 1898B
+line 1899C
+line 1900D
+line 1901this is the sports question for date 127
+line 1902A
+line 1903B
+line 1904C
+line 1905D
+line 1906this is the history question for date 128
+line 1907A
+line 1908B
+line 1909C
+line 1910D
+line 1911this is the entertainment question for date 128
+line 1912A
+line 1913B
+line 1914C
+line 1915D
+line 1916this is the sports question for date 128
+line 1917A
+line 1918B
+line 1919C
+line 1920D
+line 1921this is the history question for date 129
+line 1922A
+line 1923B
+line 1924C
+line 1925D
+line 1926this is the entertainment question for date 129
+line 1927A
+line 1928B
+line 1929C
+line 1930D
+line 1931this is the sports question for date 129
+line 1932A
+line 1933B
+line 1934C
+line 1935D
+line 1936this is the history question for date 130
+line 1937A
+line 1938B
+line 1939C
+line 1940D
+line 1941this is the entertainment question for date 130
+line 1942A
+line 1943B
+line 1944C
+line 1945D
+line 1946this is the sports question for date 130
+line 1947A
+line 1948B
+line 1949C
+line 1950D
+line 1951this is the history question for date 131
+line 1952A
+line 1953B
+line 1954C
+line 1955D
+line 1956this is the entertainment question for date 131
+line 1957A
+line 1958B
+line 1959C
+line 1960D
+line 1961this is the sports question for date 131
+line 1962A
+line 1963B
+line 1964C
+line 1965D
+line 1966this is the history question for date 132
+line 1967A
+line 1968B
+line 1969C
+line 1970D
+line 1971this is the entertainment question for date 132
+line 1972A
+line 1973B
+line 1974C
+line 1975D
+line 1976this is the sports question for date 132
+line 1977A
+line 1978B
+line 1979C
+line 1980D
+line 1981this is the history question for date 133
+line 1982A
+line 1983B
+line 1984C
+line 1985D
+line 1986this is the entertainment question for date 133
+line 1987A
+line 1988B
+line 1989C
+line 1990D
+line 1991this is the sports question for date 133
+line 1992A
+line 1993B
+line 1994C
+line 1995D
+line 1996this is the history question for date 134
+line 1997A
+line 1998B
+line 1999C
+line 2000D
+line 2001this is the entertainment question for date 134
+line 2002A
+line 2003B
+line 2004C
+line 2005D
+line 2006this is the sports question for date 134
+line 2007A
+line 2008B
+line 2009C
+line 2010D
+line 2011this is the history question for date 135
+line 2012A
+line 2013B
+line 2014C
+line 2015D
+line 2016this is the entertainment question for date 135
+line 2017A
+line 2018B
+line 2019C
+line 2020D
+line 2021this is the sports question for date 135
+line 2022A
+line 2023B
+line 2024C
+line 2025D
+line 2026this is the history question for date 136
+line 2027A
+line 2028B
+line 2029C
+line 2030D
+line 2031this is the entertainment question for date 136
+line 2032A
+line 2033B
+line 2034C
+line 2035D
+line 2036this is the sports question for date 136
+line 2037A
+line 2038B
+line 2039C
+line 2040D
+line 2041this is the history question for date 137
+line 2042A
+line 2043B
+line 2044C
+line 2045D
+line 2046this is the entertainment question for date 137
+line 2047A
+line 2048B
+line 2049C
+line 2050D
+line 2051this is the sports question for date 137
+line 2052A
+line 2053B
+line 2054C
+line 2055D
+line 2056this is the history question for date 138
+line 2057AThisisCorrect
+line 2058B
+line 2059C
+line 2060D
+line 2061this is the entertainment question for date 138
+line 2062AThis is correct
+line 2063B
+line 2064C
+line 2065D
+line 2066this is the sports question for date 138
+line 2067AThis is correct
+line 2068B
+line 2069C
+line 2070D
+line 2071this is the history question for date 139
+line 2072A
+line 2073B
+line 2074C
+line 2075D
+line 2076this is the entertainment question for date 139
+line 2077A
+line 2078B
+line 2079C
+line 2080D
+line 2081this is the sports question for date 139
+line 2082A
+line 2083B
+line 2084C
+line 2085D
+line 2086this is the history question for date 140
+line 2087A
+line 2088B
+line 2089C
+line 2090D
+line 2091this is the entertainment question for date 140
+line 2092A
+line 2093B
+line 2094C
+line 2095D
+line 2096this is the sports question for date 140
+line 2097A
+line 2098B
+line 2099C
+line 2100D
+line 2101this is the history question for date 141
+line 2102A
+line 2103B
+line 2104C
+line 2105D
+line 2106this is the entertainment question for date 141
+line 2107A
+line 2108B
+line 2109C
+line 2110D
+line 2111this is the sports question for date 141
+line 2112A
+line 2113B
+line 2114C
+line 2115D
+line 2116this is the history question for date 142
+line 2117A
+line 2118B
+line 2119C
+line 2120D
+line 2121this is the entertainment question for date 142
+line 2122A
+line 2123B
+line 2124C
+line 2125D
+line 2126this is the sports question for date 142
+line 2127A
+line 2128B
+line 2129C
+line 2130D
+line 2131this is the history question for date 143
+line 2132A
+line 2133B
+line 2134C
+line 2135D
+line 2136this is the entertainment question for date 143
+line 2137A
+line 2138B
+line 2139C
+line 2140D
+line 2141this is the sports question for date 143
+line 2142A
+line 2143B
+line 2144C
+line 2145D
+line 2146this is the history question for date 144
+line 2147A
+line 2148B
+line 2149C
+line 2150D
+line 2151this is the entertainment question for date 144
+line 2152A
+line 2153B
+line 2154C
+line 2155D
+line 2156this is the sports question for date 144
+line 2157A
+line 2158B
+line 2159C
+line 2160D
+line 2161this is the history question for date 145
+line 2162A
+line 2163B
+line 2164C
+line 2165D
+line 2166this is the entertainment question for date 145
+line 2167A
+line 2168B
+line 2169C
+line 2170D
+line 2171this is the sports question for date 145
+line 2172A
+line 2173B
+line 2174C
+line 2175D
+line 2176this is the history question for date 146
+line 2177A
+line 2178B
+line 2179C
+line 2180D
+line 2181this is the entertainment question for date 146
+line 2182A
+line 2183B
+line 2184C
+line 2185D
+line 2186this is the sports question for date 146
+line 2187A
+line 2188B
+line 2189C
+line 2190D
+line 2191this is the history question for date 147
+line 2192A
+line 2193B
+line 2194C
+line 2195D
+line 2196this is the entertainment question for date 147
+line 2197A
+line 2198B
+line 2199C
+line 2200D
+line 2201this is the sports question for date 147
+line 2202A
+line 2203B
+line 2204C
+line 2205D
+line 2206this is the history question for date 148
+line 2207A
+line 2208B
+line 2209C
+line 2210D
+line 2211this is the entertainment question for date 148
+line 2212A
+line 2213B
+line 2214C
+line 2215D
+line 2216this is the sports question for date 148
+line 2217A
+line 2218B
+line 2219C
+line 2220D
+line 2221this is the history question for date 149
+line 2222A
+line 2223B
+line 2224C
+line 2225D
+line 2226this is the entertainment question for date 149
+line 2227A
+line 2228B
+line 2229C
+line 2230D
+line 2231this is the sports question for date 149
+line 2232A
+line 2233B
+line 2234C
+line 2235D
+line 2236this is the history question for date 150
+line 2237A
+line 2238B
+line 2239C
+line 2240D
+line 2241this is the entertainment question for date 150
+line 2242A
+line 2243B
+line 2244C
+line 2245D
+line 2246this is the sports question for date 150
+line 2247A
+line 2248B
+line 2249C
+line 2250D
+line 2251this is the history question for date 151
+line 2252A
+line 2253B
+line 2254C
+line 2255D
+line 2256this is the entertainment question for date 151
+line 2257A
+line 2258B
+line 2259C
+line 2260D
+line 2261this is the sports question for date 151
+line 2262A
+line 2263B
+line 2264C
+line 2265D
+On today's date in 1972, this state became the 15th state in the Union
+Kentucky
+Tennessee
+Indiana
+South Carolina
+On today's date in 1964, this famous country music artist moved to start a career in Nashville, Tennessee
+Dolly Parton
+Chet Atkins
+Conway Twitty
+Johnny Cash
+On today's date in 1988, this video game franchise first debuted
+Madden NFL Football
+NBA 2K Series
+FIFA World Cup
+MLB The Show
+line 2281this is the history question for date 153
+line 2282A
+line 2283B
+line 2284C
+line 2285D
+line 2286this is the entertainment question for date 153
+line 2287A
+line 2288B
+line 2289C
+line 2290D
+line 2291this is the sports question for date 153
+line 2292A
+line 2293B
+line 2294C
+line 2295D
+line 2296this is the history question for date 154
+line 2297A
+line 2298B
+line 2299C
+line 2300D
+line 2301this is the entertainment question for date 154
+line 2302A
+line 2303B
+line 2304C
+line 2305D
+line 2306this is the sports question for date 154
+line 2307A
+line 2308B
+line 2309C
+line 2310D
+line 2311this is the history question for date 155
+line 2312A
+line 2313B
+line 2314C
+line 2315D
+line 2316this is the entertainment question for date 155
+line 2317A
+line 2318B
+line 2319C
+line 2320D
+line 2321this is the sports question for date 155
+line 2322A
+line 2323B
+line 2324C
+line 2325D
+line 2326this is the history question for date 156
+line 2327A
+line 2328B
+line 2329C
+line 2330D
+line 2331this is the entertainment question for date 156
+line 2332A
+line 2333B
+line 2334C
+line 2335D
+line 2336this is the sports question for date 156
+line 2337A
+line 2338B
+line 2339C
+line 2340D
+line 2341this is the history question for date 157
+line 2342A
+line 2343B
+line 2344C
+line 2345D
+line 2346this is the entertainment question for date 157
+line 2347A
+line 2348B
+line 2349C
+line 2350D
+line 2351this is the sports question for date 157
+line 2352A
+line 2353B
+line 2354C
+line 2355D
+line 2356this is the history question for date 158
+line 2357A
+line 2358B
+line 2359C
+line 2360D
+line 2361this is the entertainment question for date 158
+line 2362A
+line 2363B
+line 2364C
+line 2365D
+line 2366this is the sports question for date 158
+line 2367A
+line 2368B
+line 2369C
+line 2370D
+line 2371this is the history question for date 159
+line 2372A
+line 2373B
+line 2374C
+line 2375D
+line 2376this is the entertainment question for date 159
+line 2377A
+line 2378B
+line 2379C
+line 2380D
+line 2381this is the sports question for date 159
+line 2382A
+line 2383B
+line 2384C
+line 2385D
+line 2386this is the history question for date 160
+line 2387A
+line 2388B
+line 2389C
+line 2390D
+line 2391this is the entertainment question for date 160
+line 2392A
+line 2393B
+line 2394C
+line 2395D
+line 2396this is the sports question for date 160
+line 2397A
+line 2398B
+line 2399C
+line 2400D
+line 2401this is the history question for date 161
+line 2402A
+line 2403B
+line 2404C
+line 2405D
+line 2406this is the entertainment question for date 161
+line 2407A
+line 2408B
+line 2409C
+line 2410D
+line 2411this is the sports question for date 161
+line 2412A
+line 2413B
+line 2414C
+line 2415D
+line 2416this is the history question for date 162
+line 2417A
+line 2418B
+line 2419C
+line 2420D
+line 2421this is the entertainment question for date 162
+line 2422A
+line 2423B
+line 2424C
+line 2425D
+line 2426this is the sports question for date 162
+line 2427A
+line 2428B
+line 2429C
+line 2430D
+line 2431this is the history question for date 163
+line 2432A
+line 2433B
+line 2434C
+line 2435D
+line 2436this is the entertainment question for date 163
+line 2437A
+line 2438B
+line 2439C
+line 2440D
+line 2441this is the sports question for date 163
+line 2442A
+line 2443B
+line 2444C
+line 2445D
+line 2446this is the history question for date 164
+line 2447A
+line 2448B
+line 2449C
+line 2450D
+line 2451this is the entertainment question for date 164
+line 2452A
+line 2453B
+line 2454C
+line 2455D
+line 2456this is the sports question for date 164
+line 2457A
+line 2458B
+line 2459C
+line 2460D
+line 2461this is the history question for date 165
+line 2462A
+line 2463B
+line 2464C
+line 2465D
+line 2466this is the entertainment question for date 165
+line 2467A
+line 2468B
+line 2469C
+line 2470D
+line 2471this is the sports question for date 165
+line 2472A
+line 2473B
+line 2474C
+line 2475D
+line 2476this is the history question for date 166
+line 2477A
+line 2478B
+line 2479C
+line 2480D
+line 2481this is the entertainment question for date 166
+line 2482A
+line 2483B
+line 2484C
+line 2485D
+line 2486this is the sports question for date 166
+line 2487A
+line 2488B
+line 2489C
+line 2490D
+line 2491this is the history question for date 167
+line 2492A
+line 2493B
+line 2494C
+line 2495D
+line 2496this is the entertainment question for date 167
+line 2497A
+line 2498B
+line 2499C
+line 2500D
+line 2501this is the sports question for date 167
+line 2502A
+line 2503B
+line 2504C
+line 2505D
+line 2506this is the history question for date 168
+line 2507A
+line 2508B
+line 2509C
+line 2510D
+line 2511this is the entertainment question for date 168
+line 2512A
+line 2513B
+line 2514C
+line 2515D
+line 2516this is the sports question for date 168
+line 2517A
+line 2518B
+line 2519C
+line 2520D
+line 2521this is the history question for date 169
+line 2522A
+line 2523B
+line 2524C
+line 2525D
+line 2526this is the entertainment question for date 169
+line 2527A
+line 2528B
+line 2529C
+line 2530D
+line 2531this is the sports question for date 169
+line 2532A
+line 2533B
+line 2534C
+line 2535D
+line 2536this is the history question for date 170
+line 2537A
+line 2538B
+line 2539C
+line 2540D
+line 2541this is the entertainment question for date 170
+line 2542A
+line 2543B
+line 2544C
+line 2545D
+line 2546this is the sports question for date 170
+line 2547A
+line 2548B
+line 2549C
+line 2550D
+line 2551this is the history question for date 171
+line 2552A
+line 2553B
+line 2554C
+line 2555D
+line 2556this is the entertainment question for date 171
+line 2557A
+line 2558B
+line 2559C
+line 2560D
+line 2561this is the sports question for date 171
+line 2562A
+line 2563B
+line 2564C
+line 2565D
+line 2566this is the history question for date 172
+line 2567A
+line 2568B
+line 2569C
+line 2570D
+line 2571this is the entertainment question for date 172
+line 2572A
+line 2573B
+line 2574C
+line 2575D
+line 2576this is the sports question for date 172
+line 2577A
+line 2578B
+line 2579C
+line 2580D
+line 2581this is the history question for date 173
+line 2582A
+line 2583B
+line 2584C
+line 2585D
+line 2586this is the entertainment question for date 173
+line 2587A
+line 2588B
+line 2589C
+line 2590D
+line 2591this is the sports question for date 173
+line 2592A
+line 2593B
+line 2594C
+line 2595D
+line 2596this is the history question for date 174
+line 2597A
+line 2598B
+line 2599C
+line 2600D
+line 2601this is the entertainment question for date 174
+line 2602A
+line 2603B
+line 2604C
+line 2605D
+line 2606this is the sports question for date 174
+line 2607A
+line 2608B
+line 2609C
+line 2610D
+line 2611this is the history question for date 175
+line 2612A
+line 2613B
+line 2614C
+line 2615D
+line 2616this is the entertainment question for date 175
+line 2617A
+line 2618B
+line 2619C
+line 2620D
+line 2621this is the sports question for date 175
+line 2622A
+line 2623B
+line 2624C
+line 2625D
+line 2626this is the history question for date 176
+line 2627A
+line 2628B
+line 2629C
+line 2630D
+line 2631this is the entertainment question for date 176
+line 2632A
+line 2633B
+line 2634C
+line 2635D
+line 2636this is the sports question for date 176
+line 2637A
+line 2638B
+line 2639C
+line 2640D
+line 2641this is the history question for date 177
+line 2642A
+line 2643B
+line 2644C
+line 2645D
+line 2646this is the entertainment question for date 177
+line 2647A
+line 2648B
+line 2649C
+line 2650D
+line 2651this is the sports question for date 177
+line 2652A
+line 2653B
+line 2654C
+line 2655D
+line 2656this is the history question for date 178
+line 2657A
+line 2658B
+line 2659C
+line 2660D
+line 2661this is the entertainment question for date 178
+line 2662A
+line 2663B
+line 2664C
+line 2665D
+line 2666this is the sports question for date 178
+line 2667A
+line 2668B
+line 2669C
+line 2670D
+line 2671this is the history question for date 179
+line 2672A
+line 2673B
+line 2674C
+line 2675D
+line 2676this is the entertainment question for date 179
+line 2677A
+line 2678B
+line 2679C
+line 2680D
+line 2681this is the sports question for date 179
+line 2682A
+line 2683B
+line 2684C
+line 2685D
+line 2686this is the history question for date 180
+line 2687A
+line 2688B
+line 2689C
+line 2690D
+line 2691this is the entertainment question for date 180
+line 2692A
+line 2693B
+line 2694C
+line 2695D
+line 2696this is the sports question for date 180
+line 2697A
+line 2698B
+line 2699C
+line 2700D
+line 2701this is the history question for date 181
+line 2702A
+line 2703B
+line 2704C
+line 2705D
+line 2706this is the entertainment question for date 181
+line 2707A
+line 2708B
+line 2709C
+line 2710D
+line 2711this is the sports question for date 181
+line 2712A
+line 2713B
+line 2714C
+line 2715D
+On today's date in 1863, The battle of Gettysburg began in this state
+Pennsylvania
+Virginia
+West Virginia
+North Carolina
+On today's date in 1984, this movie rating was first established
+PG-13
+PG
+G
+R
+On today's date in 2003, this NBA superstar was accused of sexual assault
+Kobe Bryant
+Magic Johnson
+Shaquille O'neal
+Dwayne Wade
+On today's date in 1776, all 13 states except this state voted in favor of independence from Great Britain
+New York
+Pennsylvania
+Rhode Island
+New Jersey
+On today's date in 1997, this film starring Will Smith and Tommy Lee Jones was released
+Men in Black
+I-Robot
+I am Legend
+The Big Lebowski
+On today's date in 1938, Helen Wills Moody won her last major championship at this tennis tournament
+Wimbeldon
+French Open
+US Open
+The Masters
+On today's date in 1863, this famous civil war battle ended
+Gettysburg
+Battle of the Bulge
+Bull Run
+D-Day Invasion
+On today's date in 1962, this 5' 7" actor was born
+Tom Cruise
+Will Ferrel
+Chevy Chase
+Matt Damon
+On today's date in 2001, this NBA franchise moved from Vancouver to Memphis
+Grizzlies
+Bulls
+Hornets
+Knicks
+On today's date in 1776, this man wrote the declaration of independence
+Thomas Jefferson
+Samuel Adams
+John Hancock
+George Washington
+On today's date in 1976, this punk band played their first live show opening for the sex pistols in England
+The Clash
+The Beatles
+The Ramones
+The Rolling Stones
+On today's date in 2007, this competitive eater won Nathan's hotdog eating contest for the first time
+Joey Chestnut
+Kobyashi
+Mark Winovich
+Thomas Gales
+line 2776this is the history question for date 186
+line 2777A
+line 2778B
+line 2779C
+line 2780D
+line 2781this is the entertainment question for date 186
+line 2782A
+line 2783B
+line 2784C
+line 2785D
+line 2786this is the sports question for date 186
+line 2787A
+line 2788B
+line 2789C
+line 2790D
+line 2791this is the history question for date 187
+line 2792A
+line 2793B
+line 2794C
+line 2795D
+line 2796this is the entertainment question for date 187
+line 2797A
+line 2798B
+line 2799C
+line 2800D
+line 2801this is the sports question for date 187
+line 2802A
+line 2803B
+line 2804C
+line 2805D
+line 2806this is the history question for date 188
+line 2807A
+line 2808B
+line 2809C
+line 2810D
+line 2811this is the entertainment question for date 188
+line 2812A
+line 2813B
+line 2814C
+line 2815D
+line 2816this is the sports question for date 188
+line 2817A
+line 2818B
+line 2819C
+line 2820D
+line 2821this is the history question for date 189
+line 2822A
+line 2823B
+line 2824C
+line 2825D
+line 2826this is the entertainment question for date 189
+line 2827A
+line 2828B
+line 2829C
+line 2830D
+line 2831this is the sports question for date 189
+line 2832A
+line 2833B
+line 2834C
+line 2835D
+line 2836this is the history question for date 190
+line 2837A
+line 2838B
+line 2839C
+line 2840D
+line 2841this is the entertainment question for date 190
+line 2842A
+line 2843B
+line 2844C
+line 2845D
+line 2846this is the sports question for date 190
+line 2847A
+line 2848B
+line 2849C
+line 2850D
+line 2851this is the history question for date 191
+line 2852A
+line 2853B
+line 2854C
+line 2855D
+line 2856this is the entertainment question for date 191
+line 2857A
+line 2858B
+line 2859C
+line 2860D
+line 2861this is the sports question for date 191
+line 2862A
+line 2863B
+line 2864C
+line 2865D
+line 2866this is the history question for date 192
+line 2867A
+line 2868B
+line 2869C
+line 2870D
+line 2871this is the entertainment question for date 192
+line 2872A
+line 2873B
+line 2874C
+line 2875D
+line 2876this is the sports question for date 192
+line 2877A
+line 2878B
+line 2879C
+line 2880D
+line 2881this is the history question for date 193
+line 2882A
+line 2883B
+line 2884C
+line 2885D
+line 2886this is the entertainment question for date 193
+line 2887A
+line 2888B
+line 2889C
+line 2890D
+line 2891this is the sports question for date 193
+line 2892A
+line 2893B
+line 2894C
+line 2895D
+line 2896this is the history question for date 194
+line 2897A
+line 2898B
+line 2899C
+line 2900D
+line 2901this is the entertainment question for date 194
+line 2902A
+line 2903B
+line 2904C
+line 2905D
+line 2906this is the sports question for date 194
+line 2907A
+line 2908B
+line 2909C
+line 2910D
+line 2911this is the history question for date 195
+line 2912A
+line 2913B
+line 2914C
+line 2915D
+line 2916this is the entertainment question for date 195
+line 2917A
+line 2918B
+line 2919C
+line 2920D
+line 2921this is the sports question for date 195
+line 2922A
+line 2923B
+line 2924C
+line 2925D
+line 2926this is the history question for date 196
+line 2927A
+line 2928B
+line 2929C
+line 2930D
+line 2931this is the entertainment question for date 196
+line 2932A
+line 2933B
+line 2934C
+line 2935D
+line 2936this is the sports question for date 196
+line 2937A
+line 2938B
+line 2939C
+line 2940D
+line 2941this is the history question for date 197
+line 2942A
+line 2943B
+line 2944C
+line 2945D
+line 2946this is the entertainment question for date 197
+line 2947A
+line 2948B
+line 2949C
+line 2950D
+line 2951this is the sports question for date 197
+line 2952A
+line 2953B
+line 2954C
+line 2955D
+line 2956this is the history question for date 198
+line 2957A
+line 2958B
+line 2959C
+line 2960D
+line 2961this is the entertainment question for date 198
+line 2962A
+line 2963B
+line 2964C
+line 2965D
+line 2966this is the sports question for date 198
+line 2967A
+line 2968B
+line 2969C
+line 2970D
+line 2971this is the history question for date 199
+line 2972A
+line 2973B
+line 2974C
+line 2975D
+line 2976this is the entertainment question for date 199
+line 2977A
+line 2978B
+line 2979C
+line 2980D
+line 2981this is the sports question for date 199
+line 2982A
+line 2983B
+line 2984C
+line 2985D
+line 2986this is the history question for date 200
+line 2987A
+line 2988B
+line 2989C
+line 2990D
+line 2991this is the entertainment question for date 200
+line 2992A
+line 2993B
+line 2994C
+line 2995D
+line 2996this is the sports question for date 200
+line 2997A
+line 2998B
+line 2999C
+line 3000D
+line 3001this is the history question for date 201
+line 3002A
+line 3003B
+line 3004C
+line 3005D
+line 3006this is the entertainment question for date 201
+line 3007A
+line 3008B
+line 3009C
+line 3010D
+line 3011this is the sports question for date 201
+line 3012A
+line 3013B
+line 3014C
+line 3015D
+line 3016this is the history question for date 202
+line 3017A
+line 3018B
+line 3019C
+line 3020D
+line 3021this is the entertainment question for date 202
+line 3022A
+line 3023B
+line 3024C
+line 3025D
+line 3026this is the sports question for date 202
+line 3027A
+line 3028B
+line 3029C
+line 3030D
+line 3031this is the history question for date 203
+line 3032A
+line 3033B
+line 3034C
+line 3035D
+line 3036this is the entertainment question for date 203
+line 3037A
+line 3038B
+line 3039C
+line 3040D
+line 3041this is the sports question for date 203
+line 3042A
+line 3043B
+line 3044C
+line 3045D
+line 3046this is the history question for date 204
+line 3047A
+line 3048B
+line 3049C
+line 3050D
+line 3051this is the entertainment question for date 204
+line 3052A
+line 3053B
+line 3054C
+line 3055D
+line 3056this is the sports question for date 204
+line 3057A
+line 3058B
+line 3059C
+line 3060D
+line 3061this is the history question for date 205
+line 3062A
+line 3063B
+line 3064C
+line 3065D
+line 3066this is the entertainment question for date 205
+line 3067A
+line 3068B
+line 3069C
+line 3070D
+line 3071this is the sports question for date 205
+line 3072A
+line 3073B
+line 3074C
+line 3075D
+line 3076this is the history question for date 206
+line 3077A
+line 3078B
+line 3079C
+line 3080D
+line 3081this is the entertainment question for date 206
+line 3082A
+line 3083B
+line 3084C
+line 3085D
+line 3086this is the sports question for date 206
+line 3087A
+line 3088B
+line 3089C
+line 3090D
+line 3091this is the history question for date 207
+line 3092A
+line 3093B
+line 3094C
+line 3095D
+line 3096this is the entertainment question for date 207
+line 3097A
+line 3098B
+line 3099C
+line 3100D
+line 3101this is the sports question for date 207
+line 3102A
+line 3103B
+line 3104C
+line 3105D
+line 3106this is the history question for date 208
+line 3107A
+line 3108B
+line 3109C
+line 3110D
+line 3111this is the entertainment question for date 208
+line 3112A
+line 3113B
+line 3114C
+line 3115D
+line 3116this is the sports question for date 208
+line 3117A
+line 3118B
+line 3119C
+line 3120D
+line 3121this is the history question for date 209
+line 3122A
+line 3123B
+line 3124C
+line 3125D
+line 3126this is the entertainment question for date 209
+line 3127A
+line 3128B
+line 3129C
+line 3130D
+line 3131this is the sports question for date 209
+line 3132A
+line 3133B
+line 3134C
+line 3135D
+line 3136this is the history question for date 210
+line 3137A
+line 3138B
+line 3139C
+line 3140D
+line 3141this is the entertainment question for date 210
+line 3142A
+line 3143B
+line 3144C
+line 3145D
+line 3146this is the sports question for date 210
+line 3147A
+line 3148B
+line 3149C
+line 3150D
+line 3151this is the history question for date 211
+line 3152A
+line 3153B
+line 3154C
+line 3155D
+line 3156this is the entertainment question for date 211
+line 3157A
+line 3158B
+line 3159C
+line 3160D
+line 3161this is the sports question for date 211
+line 3162A
+line 3163B
+line 3164C
+line 3165D
+line 3166this is the history question for date 212
+line 3167A
+line 3168B
+line 3169C
+line 3170D
+line 3171this is the entertainment question for date 212
+line 3172A
+line 3173B
+line 3174C
+line 3175D
+line 3176this is the sports question for date 212
+line 3177A
+line 3178B
+line 3179C
+line 3180D
+line 3181this is the history question for date 213
+line 3182A
+line 3183B
+line 3184C
+line 3185D
+line 3186this is the entertainment question for date 213
+line 3187A
+line 3188B
+line 3189C
+line 3190D
+line 3191this is the sports question for date 213
+line 3192A
+line 3193B
+line 3194C
+line 3195D
+line 3196this is the history question for date 214
+line 3197A
+line 3198B
+line 3199C
+line 3200D
+line 3201this is the entertainment question for date 214
+line 3202A
+line 3203B
+line 3204C
+line 3205D
+line 3206this is the sports question for date 214
+line 3207A
+line 3208B
+line 3209C
+line 3210D
+line 3211this is the history question for date 215
+line 3212A
+line 3213B
+line 3214C
+line 3215D
+line 3216this is the entertainment question for date 215
+line 3217A
+line 3218B
+line 3219C
+line 3220D
+line 3221this is the sports question for date 215
+line 3222A
+line 3223B
+line 3224C
+line 3225D
+line 3226this is the history question for date 216
+line 3227A
+line 3228B
+line 3229C
+line 3230D
+line 3231this is the entertainment question for date 216
+line 3232A
+line 3233B
+line 3234C
+line 3235D
+line 3236this is the sports question for date 216
+line 3237A
+line 3238B
+line 3239C
+line 3240D
+line 3241this is the history question for date 217
+line 3242A
+line 3243B
+line 3244C
+line 3245D
+line 3246this is the entertainment question for date 217
+line 3247A
+line 3248B
+line 3249C
+line 3250D
+line 3251this is the sports question for date 217
+line 3252A
+line 3253B
+line 3254C
+line 3255D
+line 3256this is the history question for date 218
+line 3257A
+line 3258B
+line 3259C
+line 3260D
+line 3261this is the entertainment question for date 218
+line 3262A
+line 3263B
+line 3264C
+line 3265D
+line 3266this is the sports question for date 218
+line 3267A
+line 3268B
+line 3269C
+line 3270D
+line 3271this is the history question for date 219
+line 3272A
+line 3273B
+line 3274C
+line 3275D
+line 3276this is the entertainment question for date 219
+line 3277A
+line 3278B
+line 3279C
+line 3280D
+line 3281this is the sports question for date 219
+line 3282A
+line 3283B
+line 3284C
+line 3285D
+line 3286this is the history question for date 220
+line 3287A
+line 3288B
+line 3289C
+line 3290D
+line 3291this is the entertainment question for date 220
+line 3292A
+line 3293B
+line 3294C
+line 3295D
+line 3296this is the sports question for date 220
+line 3297A
+line 3298B
+line 3299C
+line 3300D
+line 3301this is the history question for date 221
+line 3302A
+line 3303B
+line 3304C
+line 3305D
+line 3306this is the entertainment question for date 221
+line 3307A
+line 3308B
+line 3309C
+line 3310D
+line 3311this is the sports question for date 221
+line 3312A
+line 3313B
+line 3314C
+line 3315D
+line 3316this is the history question for date 222
+line 3317A
+line 3318B
+line 3319C
+line 3320D
+line 3321this is the entertainment question for date 222
+line 3322A
+line 3323B
+line 3324C
+line 3325D
+line 3326this is the sports question for date 222
+line 3327A
+line 3328B
+line 3329C
+line 3330D
+line 3331this is the history question for date 223
+line 3332A
+line 3333B
+line 3334C
+line 3335D
+line 3336this is the entertainment question for date 223
+line 3337A
+line 3338B
+line 3339C
+line 3340D
+line 3341this is the sports question for date 223
+line 3342A
+line 3343B
+line 3344C
+line 3345D
+line 3346this is the history question for date 224
+line 3347A
+line 3348B
+line 3349C
+line 3350D
+line 3351this is the entertainment question for date 224
+line 3352A
+line 3353B
+line 3354C
+line 3355D
+line 3356this is the sports question for date 224
+line 3357A
+line 3358B
+line 3359C
+line 3360D
+line 3361this is the history question for date 225
+line 3362A
+line 3363B
+line 3364C
+line 3365D
+line 3366this is the entertainment question for date 225
+line 3367A
+line 3368B
+line 3369C
+line 3370D
+line 3371this is the sports question for date 225
+line 3372A
+line 3373B
+line 3374C
+line 3375D
+line 3376this is the history question for date 226
+line 3377A
+line 3378B
+line 3379C
+line 3380D
+line 3381this is the entertainment question for date 226
+line 3382A
+line 3383B
+line 3384C
+line 3385D
+line 3386this is the sports question for date 226
+line 3387A
+line 3388B
+line 3389C
+line 3390D
+On today's date in 1914, this a canal was first opened in this country
+Panama
+Mexico
+Haiti
+Brazil
+On today's date in 1969 this music festival opened
+Woodstock
+Lollapalooza
+Riotfest
+BBC's Day of Rock
+On today's date in 2007, this NBA referee plead guilty on two counts of felony conspiracy
+Tim Donaghy
+Jon Carrol
+Rand Wilson
+Jeff Cosma
+On today's date in 1896, gold was found in this Canadian Territory
+The Yukon
+Ontario
+Toronto
+Nova Scotia
+On today's date in 1977, this king of rock and roll died
+Elvis Presley
+Jim Morrison
+George Harrison
+Ezekiel Elliot
+On today's date in 1948, this MLB player who once held the league home run record died
+Babe Ruth
+Hank Aaron
+Joe Dimaggio
+Sammy Sosa
+On today's date in 1978, The Double Eagle II took this many days to complete the first transatlantic balloon flight
+6
+5
+4
+3
+On today's date in 1969, this music festival ended
+Woodstock
+Lollapalooza
+Riotfest
+BBC's Day of Rock
+On today's date in 1933, this MLB player broke the current record for most games played in a row
+Lou Gehrig
+Babe Ruth
+Sammy Sosa
+Arnold Palmer
+On today's date in 1277, this chinese leadaer died
+Genghis Khan
+Mao Zedong
+Chan Chi
+Jeb Bush
+On today's date in 1979, this band's pop hit, "Good Times" was the last #1 ranked disco song of the 70's
+Chic
+The Beegees
+Van Morrison
+Led Zeppelin
+On today's date in 1992, this Indiana born power forward retired
+Larry Bird
+Reggie Miller
+Michael Jordan
+Darnell Revis
+On today's date in 1946, this future president was born
+Bill Clinton
+George W. Bush
+Ronald Reagan
+George Washington
+On today's date in 1886, this Polish writer became a British citizen
+Joseph Conrad
+Duke Ellington
+Charles Dickens
+Oliver Twist
+On today's date in 1909, this track had its first race
+Indianapolis Motor Speedway
+Atlanta Motor Speedway
+Charlotte Motor Speedway
+Bristol Motor Speedway
+On today's date in 1968, the Soviet Union invaded this Eastern European Country
+Czechoslovakia
+Poland
+Germany
+Latvia
+On today's date in 1918, this author who wrote "Valley of the Dolls" was born
+Jacqueline Susann
+Tracy Capone
+Jill Haggerty
+Susan B. Anthony
+On today's date in 1920, this first professional football league was created
+APFC
+NFL
+PFA
+NCAAF
+On today's date in 1831, this Slave lead a revolt in Virginia
+Nat Turner
+Harriet Tubman
+George Washington Carver
+Penelope Brandt
+On today's date in 2007, this inventor of the synthesizer died
+Robert Moog
+JP Orgal
+Jon Keynesian
+Ronald Trump
+On today's date in 2008, this swimmer won his 8th gold medal
+Michael Phelps
+Josh Dorbin
+Jon Paul
+Ron Jeremiah
+On today's date in 1992, this deadly hurricane hit the Bahamas on itts way to Florida
+Andrew
+Katrina
+George
+Tabitha, Destroyer of Worlds
+On today's date in 1968, this drummer left beatles for nearly two weeks during a recording session
+Ringo Starr
+Neil Patrick
+Nathan Williams
+George Harrison
+On today's date in 1950, this woman became the first African American on the US professional tennis tour
+Althea Gibson
+Susan B. Anthony
+Mimi Ovaert
+Venus Williams
+On today's date in 1999, this virus was discovered in New York City
+West Nile
+Flu
+SARS
+Common Cold
+On today's date in 1970, this man played his last gig with the Velvet Underground
+Lou Reed
+Joe Satriani
+Eddie Van Halen
+Joe Perry
+On today's date in 1989, this baseball manager was kicked out of the MLB for gambling
+Pete Rose
+John Dempsey
+Rand Paul
+Donald Trump
+On today's date in 79 AD, this volcano erupted
+Mt Vesuvius
+Mt St helen
+Mt George
+Mt Everest
+On today's date in 1981, this man who killed John Lennon was sentenced
+Mark David Chapman
+Julian Casablancas
+John Henry David
+Henry George Carver
+On today's date in 1875, this man became the first person to attempt to swim the english channel
+Captain Matthew Web
+General John Kerry
+Donald Trump
+Sergeant George Kimm
+On today's date in 1776, this philosopher died
+David Hume
+John Oliver
+Rene Descartes
+Andrew Wiggins
+On today's date in 1939, this fantasy movie debuted
+Wizard of Oz
+Fairy Tales
+Beauty and the Beast
+Cinderella
+On today's date in 1985, this pitcher became the youngest 20 game winner ever
+Dwight Gooden
+Marley Jones
+Dustin Johnson
+Tiger Woods
+On today's date in 1948, this temperature was reached in New York City
+108
+95
+140
+30
+On today's date in 1978, this movie soundtrack had its second number one hit
+Grease
+Hairspray
+Annie
+The Wizard of Oz
+On today's date in 1939, this entertainment medium had its baseball debut
+Television
+Radio
+Internet Video
+Podcast
+On today's date in 1883 this mountain exploded
+Krakatau
+Mt Vesuvius
+Mt Everest
+Mt St Helen
+On today's date in 1967, this former beatles manager died
+Brian Epstein
+Jon Kerry
+Ronald Paul
+John Oliver
+On today's date in 2007, this NFL quarterback pled guilty to dog fighting charges
+Michael Vick
+Donavan McNabb
+Peyton Manning
+Drew Brees
+On today's date in 1879, this zulu king was captured
+Cetshwayo
+Ketryea
+Hewra
+Artyog
+On today's date in 1987, this 81 year old actor died
+John Houston
+John Travolta
+Samuel L. Jackson
+John Goodman
+On today's date in 1977, pele led this soccer team to victory in the soccer bowl
+The Cosmos
+The Planets
+The Moons
+The Stars
+On today's date in 2005, this hurricane hit New Orleans
+Katrina
+Andrew
+George
+Tabitha, Destroyer of Worlds
+On today's date in 1958 this pop star was born
+Michael Jackson
+Steven Tyler
+John Lennon
+Paul McCartney
+On today's date in 2004, a runner was assaulted in this olympic event
+Marathon
+10000M
+400M
+110M Hurdles
+On today's date in 1918, this Russian leader was shot
+Vladimir Lenin
+Joseph Stalin
+Alex Mukasyan
+Vladimir Putin
+On today's date in 2003, this Hollywood tough guy died
+Charles Bronson
+John Travolta
+Rocky Balboa
+John Carr
+On today's date in 1965, this Mets manager retires after breaking his hip ending a 56 year MLB career
+Casey Stengel
+Pete Rose
+Hank Aaron
+Joe Dimaggio
+On today's date in 1888, this serial killer claims his first victim
+Jack the Ripper
+Ted Bundy
+Ryan Wilson
+James Humboldt
+On today's date in 1949, this "Pretty Woman" actor was born
+Richard Gere
+Matt Damon
+Brad Pitt
+Sammy Sosa
+On today's date in 1959, this pitcher threw 18 strikeouts to set a new National League record
+Sandy Koufax
+Randy Johnson
+Johnny Williams
+Jeb George
+On today's date in 1864, this US city fell to union fores during the civil war
+Atlanta
+New Orleans
+Sarasota
+Jackson
+On today's date in 1985, this shipwreck, who's story would become a movie, was found in the atlantic
+The Titanic
+The Odyssey
+The Jimla
+The Avenger
+On today's date in 1964, the first player of this nationality entered the MLB
+Japanese
+Chinese
+Korean
+African American
+On today's date in 1666, a fire began in this city
+London
+Chicago
+Madrid
+Instanbul
+On today's date in 1973, this "Lord of the Rings" author died
+JRR Tolkien
+James Smith
+CS Lewis
+JK Rowling
+line 3671this is the sports question for date 245
+line 3672A
+line 3673B
+line 3674C
+line 3675D
+line 3676this is the history question for date 246
+line 3677A
+line 3678B
+line 3679C
+line 3680D
+line 3681this is the entertainment question for date 246
+line 3682A
+line 3683B
+line 3684C
+line 3685D
+line 3686this is the sports question for date 246
+line 3687A
+line 3688B
+line 3689C
+line 3690D
+line 3691this is the history question for date 247
+line 3692A
+line 3693B
+line 3694C
+line 3695D
+line 3696this is the entertainment question for date 247
+line 3697A
+line 3698B
+line 3699C
+line 3700D
+line 3701this is the sports question for date 247
+line 3702A
+line 3703B
+line 3704C
+line 3705D
+line 3706this is the history question for date 248
+line 3707A
+line 3708B
+line 3709C
+line 3710D
+line 3711this is the entertainment question for date 248
+line 3712A
+line 3713B
+line 3714C
+line 3715D
+line 3716this is the sports question for date 248
+line 3717A
+line 3718B
+line 3719C
+line 3720D
+line 3721this is the history question for date 249
+line 3722A
+line 3723B
+line 3724C
+line 3725D
+line 3726this is the entertainment question for date 249
+line 3727A
+line 3728B
+line 3729C
+line 3730D
+line 3731this is the sports question for date 249
+line 3732A
+line 3733B
+line 3734C
+line 3735D
+line 3736this is the history question for date 250
+line 3737A
+line 3738B
+line 3739C
+line 3740D
+line 3741this is the entertainment question for date 250
+line 3742A
+line 3743B
+line 3744C
+line 3745D
+line 3746this is the sports question for date 250
+line 3747A
+line 3748B
+line 3749C
+line 3750D
+line 3751this is the history question for date 251
+line 3752A
+line 3753B
+line 3754C
+line 3755D
+line 3756this is the entertainment question for date 251
+line 3757A
+line 3758B
+line 3759C
+line 3760D
+line 3761this is the sports question for date 251
+line 3762A
+line 3763B
+line 3764C
+line 3765D
+line 3766this is the history question for date 252
+line 3767A
+line 3768B
+line 3769C
+line 3770D
+line 3771this is the entertainment question for date 252
+line 3772A
+line 3773B
+line 3774C
+line 3775D
+line 3776this is the sports question for date 252
+line 3777A
+line 3778B
+line 3779C
+line 3780D
+line 3781this is the history question for date 253
+line 3782A
+line 3783B
+line 3784C
+line 3785D
+line 3786this is the entertainment question for date 253
+line 3787A
+line 3788B
+line 3789C
+line 3790D
+line 3791this is the sports question for date 253
+line 3792A
+line 3793B
+line 3794C
+line 3795D
+line 3796this is the history question for date 254
+line 3797A
+line 3798B
+line 3799C
+line 3800D
+line 3801this is the entertainment question for date 254
+line 3802A
+line 3803B
+line 3804C
+line 3805D
+line 3806this is the sports question for date 254
+line 3807A
+line 3808B
+line 3809C
+line 3810D
+line 3811this is the history question for date 255
+line 3812A
+line 3813B
+line 3814C
+line 3815D
+line 3816this is the entertainment question for date 255
+line 3817A
+line 3818B
+line 3819C
+line 3820D
+line 3821this is the sports question for date 255
+line 3822A
+line 3823B
+line 3824C
+line 3825D
+line 3826this is the history question for date 256
+line 3827A
+line 3828B
+line 3829C
+line 3830D
+line 3831this is the entertainment question for date 256
+line 3832A
+line 3833B
+line 3834C
+line 3835D
+line 3836this is the sports question for date 256
+line 3837A
+line 3838B
+line 3839C
+line 3840D
+line 3841this is the history question for date 257
+line 3842A
+line 3843B
+line 3844C
+line 3845D
+line 3846this is the entertainment question for date 257
+line 3847A
+line 3848B
+line 3849C
+line 3850D
+line 3851this is the sports question for date 257
+line 3852A
+line 3853B
+line 3854C
+line 3855D
+line 3856this is the history question for date 258
+line 3857A
+line 3858B
+line 3859C
+line 3860D
+line 3861this is the entertainment question for date 258
+line 3862A
+line 3863B
+line 3864C
+line 3865D
+line 3866this is the sports question for date 258
+line 3867A
+line 3868B
+line 3869C
+line 3870D
+line 3871this is the history question for date 259
+line 3872A
+line 3873B
+line 3874C
+line 3875D
+line 3876this is the entertainment question for date 259
+line 3877A
+line 3878B
+line 3879C
+line 3880D
+line 3881this is the sports question for date 259
+line 3882A
+line 3883B
+line 3884C
+line 3885D
+line 3886this is the history question for date 260
+line 3887A
+line 3888B
+line 3889C
+line 3890D
+line 3891this is the entertainment question for date 260
+line 3892A
+line 3893B
+line 3894C
+line 3895D
+line 3896this is the sports question for date 260
+line 3897A
+line 3898B
+line 3899C
+line 3900D
+line 3901this is the history question for date 261
+line 3902A
+line 3903B
+line 3904C
+line 3905D
+line 3906this is the entertainment question for date 261
+line 3907A
+line 3908B
+line 3909C
+line 3910D
+line 3911this is the sports question for date 261
+line 3912A
+line 3913B
+line 3914C
+line 3915D
+line 3916this is the history question for date 262
+line 3917A
+line 3918B
+line 3919C
+line 3920D
+line 3921this is the entertainment question for date 262
+line 3922A
+line 3923B
+line 3924C
+line 3925D
+line 3926this is the sports question for date 262
+line 3927A
+line 3928B
+line 3929C
+line 3930D
+line 3931this is the history question for date 263
+line 3932A
+line 3933B
+line 3934C
+line 3935D
+line 3936this is the entertainment question for date 263
+line 3937A
+line 3938B
+line 3939C
+line 3940D
+line 3941this is the sports question for date 263
+line 3942A
+line 3943B
+line 3944C
+line 3945D
+line 3946this is the history question for date 264
+line 3947A
+line 3948B
+line 3949C
+line 3950D
+line 3951this is the entertainment question for date 264
+line 3952A
+line 3953B
+line 3954C
+line 3955D
+line 3956this is the sports question for date 264
+line 3957A
+line 3958B
+line 3959C
+line 3960D
+line 3961this is the history question for date 265
+line 3962A
+line 3963B
+line 3964C
+line 3965D
+line 3966this is the entertainment question for date 265
+line 3967A
+line 3968B
+line 3969C
+line 3970D
+line 3971this is the sports question for date 265
+line 3972A
+line 3973B
+line 3974C
+line 3975D
+line 3976this is the history question for date 266
+line 3977A
+line 3978B
+line 3979C
+line 3980D
+line 3981this is the entertainment question for date 266
+line 3982A
+line 3983B
+line 3984C
+line 3985D
+line 3986this is the sports question for date 266
+line 3987A
+line 3988B
+line 3989C
+line 3990D
+line 3991this is the history question for date 267
+line 3992A
+line 3993B
+line 3994C
+line 3995D
+line 3996this is the entertainment question for date 267
+line 3997A
+line 3998B
+line 3999C
+line 4000D
+line 4001this is the sports question for date 267
+line 4002A
+line 4003B
+line 4004C
+line 4005D
+line 4006this is the history question for date 268
+line 4007A
+line 4008B
+line 4009C
+line 4010D
+line 4011this is the entertainment question for date 268
+line 4012A
+line 4013B
+line 4014C
+line 4015D
+line 4016this is the sports question for date 268
+line 4017A
+line 4018B
+line 4019C
+line 4020D
+line 4021this is the history question for date 269
+line 4022A
+line 4023B
+line 4024C
+line 4025D
+line 4026this is the entertainment question for date 269
+line 4027A
+line 4028B
+line 4029C
+line 4030D
+line 4031this is the sports question for date 269
+line 4032A
+line 4033B
+line 4034C
+line 4035D
+line 4036this is the history question for date 270
+line 4037A
+line 4038B
+line 4039C
+line 4040D
+line 4041this is the entertainment question for date 270
+line 4042A
+line 4043B
+line 4044C
+line 4045D
+line 4046this is the sports question for date 270
+line 4047A
+line 4048B
+line 4049C
+line 4050D
+line 4051this is the history question for date 271
+line 4052A
+line 4053B
+line 4054C
+line 4055D
+line 4056this is the entertainment question for date 271
+line 4057A
+line 4058B
+line 4059C
+line 4060D
+line 4061this is the sports question for date 271
+line 4062A
+line 4063B
+line 4064C
+line 4065D
+line 4066this is the history question for date 272
+line 4067A
+line 4068B
+line 4069C
+line 4070D
+line 4071this is the entertainment question for date 272
+line 4072A
+line 4073B
+line 4074C
+line 4075D
+line 4076this is the sports question for date 272
+line 4077A
+line 4078B
+line 4079C
+line 4080D
+line 4081this is the history question for date 273
+line 4082A
+line 4083B
+line 4084C
+line 4085D
+line 4086this is the entertainment question for date 273
+line 4087A
+line 4088B
+line 4089C
+line 4090D
+line 4091this is the sports question for date 273
+line 4092A
+line 4093B
+line 4094C
+line 4095D
+line 4096this is the history question for date 274
+line 4097A
+line 4098B
+line 4099C
+line 4100D
+line 4101this is the entertainment question for date 274
+line 4102A
+line 4103B
+line 4104C
+line 4105D
+line 4106this is the sports question for date 274
+line 4107A
+line 4108B
+line 4109C
+line 4110D
+line 4111this is the history question for date 275
+line 4112A
+line 4113B
+line 4114C
+line 4115D
+line 4116this is the entertainment question for date 275
+line 4117A
+line 4118B
+line 4119C
+line 4120D
+line 4121this is the sports question for date 275
+line 4122A
+line 4123B
+line 4124C
+line 4125D
+line 4126this is the history question for date 276
+line 4127A
+line 4128B
+line 4129C
+line 4130D
+line 4131this is the entertainment question for date 276
+line 4132A
+line 4133B
+line 4134C
+line 4135D
+line 4136this is the sports question for date 276
+line 4137A
+line 4138B
+line 4139C
+line 4140D
+line 4141this is the history question for date 277
+line 4142A
+line 4143B
+line 4144C
+line 4145D
+line 4146this is the entertainment question for date 277
+line 4147A
+line 4148B
+line 4149C
+line 4150D
+line 4151this is the sports question for date 277
+line 4152A
+line 4153B
+line 4154C
+line 4155D
+line 4156this is the history question for date 278
+line 4157A
+line 4158B
+line 4159C
+line 4160D
+line 4161this is the entertainment question for date 278
+line 4162A
+line 4163B
+line 4164C
+line 4165D
+line 4166this is the sports question for date 278
+line 4167A
+line 4168B
+line 4169C
+line 4170D
+line 4171this is the history question for date 279
+line 4172A
+line 4173B
+line 4174C
+line 4175D
+line 4176this is the entertainment question for date 279
+line 4177A
+line 4178B
+line 4179C
+line 4180D
+line 4181this is the sports question for date 279
+line 4182A
+line 4183B
+line 4184C
+line 4185D
+line 4186this is the history question for date 280
+line 4187A
+line 4188B
+line 4189C
+line 4190D
+line 4191this is the entertainment question for date 280
+line 4192A
+line 4193B
+line 4194C
+line 4195D
+line 4196this is the sports question for date 280
+line 4197A
+line 4198B
+line 4199C
+line 4200D
+line 4201this is the history question for date 281
+line 4202A
+line 4203B
+line 4204C
+line 4205D
+line 4206this is the entertainment question for date 281
+line 4207A
+line 4208B
+line 4209C
+line 4210D
+line 4211this is the sports question for date 281
+line 4212A
+line 4213B
+line 4214C
+line 4215D
+line 4216this is the history question for date 282
+line 4217A
+line 4218B
+line 4219C
+line 4220D
+line 4221this is the entertainment question for date 282
+line 4222A
+line 4223B
+line 4224C
+line 4225D
+line 4226this is the sports question for date 282
+line 4227A
+line 4228B
+line 4229C
+line 4230D
+line 4231this is the history question for date 283
+line 4232A
+line 4233B
+line 4234C
+line 4235D
+line 4236this is the entertainment question for date 283
+line 4237A
+line 4238B
+line 4239C
+line 4240D
+line 4241this is the sports question for date 283
+line 4242A
+line 4243B
+line 4244C
+line 4245D
+line 4246this is the history question for date 284
+line 4247A
+line 4248B
+line 4249C
+line 4250D
+line 4251this is the entertainment question for date 284
+line 4252A
+line 4253B
+line 4254C
+line 4255D
+line 4256this is the sports question for date 284
+line 4257A
+line 4258B
+line 4259C
+line 4260D
+line 4261this is the history question for date 285
+line 4262A
+line 4263B
+line 4264C
+line 4265D
+line 4266this is the entertainment question for date 285
+line 4267A
+line 4268B
+line 4269C
+line 4270D
+line 4271this is the sports question for date 285
+line 4272A
+line 4273B
+line 4274C
+line 4275D
+line 4276this is the history question for date 286
+line 4277A
+line 4278B
+line 4279C
+line 4280D
+line 4281this is the entertainment question for date 286
+line 4282A
+line 4283B
+line 4284C
+line 4285D
+line 4286this is the sports question for date 286
+line 4287A
+line 4288B
+line 4289C
+line 4290D
+line 4291this is the history question for date 287
+line 4292A
+line 4293B
+line 4294C
+line 4295D
+line 4296this is the entertainment question for date 287
+line 4297A
+line 4298B
+line 4299C
+line 4300D
+line 4301this is the sports question for date 287
+line 4302A
+line 4303B
+line 4304C
+line 4305D
+line 4306this is the history question for date 288
+line 4307A
+line 4308B
+line 4309C
+line 4310D
+line 4311this is the entertainment question for date 288
+line 4312A
+line 4313B
+line 4314C
+line 4315D
+line 4316this is the sports question for date 288
+line 4317A
+line 4318B
+line 4319C
+line 4320D
+line 4321this is the history question for date 289
+line 4322A
+line 4323B
+line 4324C
+line 4325D
+line 4326this is the entertainment question for date 289
+line 4327A
+line 4328B
+line 4329C
+line 4330D
+line 4331this is the sports question for date 289
+line 4332A
+line 4333B
+line 4334C
+line 4335D
+line 4336this is the history question for date 290
+line 4337A
+line 4338B
+line 4339C
+line 4340D
+line 4341this is the entertainment question for date 290
+line 4342A
+line 4343B
+line 4344C
+line 4345D
+line 4346this is the sports question for date 290
+line 4347A
+line 4348B
+line 4349C
+line 4350D
+line 4351this is the history question for date 291
+line 4352A
+line 4353B
+line 4354C
+line 4355D
+line 4356this is the entertainment question for date 291
+line 4357A
+line 4358B
+line 4359C
+line 4360D
+line 4361this is the sports question for date 291
+line 4362A
+line 4363B
+line 4364C
+line 4365D
+line 4366this is the history question for date 292
+line 4367A
+line 4368B
+line 4369C
+line 4370D
+line 4371this is the entertainment question for date 292
+line 4372A
+line 4373B
+line 4374C
+line 4375D
+line 4376this is the sports question for date 292
+line 4377A
+line 4378B
+line 4379C
+line 4380D
+line 4381this is the history question for date 293
+line 4382A
+line 4383B
+line 4384C
+line 4385D
+line 4386this is the entertainment question for date 293
+line 4387A
+line 4388B
+line 4389C
+line 4390D
+line 4391this is the sports question for date 293
+line 4392A
+line 4393B
+line 4394C
+line 4395D
+line 4396this is the history question for date 294
+line 4397A
+line 4398B
+line 4399C
+line 4400D
+line 4401this is the entertainment question for date 294
+line 4402A
+line 4403B
+line 4404C
+line 4405D
+line 4406this is the sports question for date 294
+line 4407A
+line 4408B
+line 4409C
+line 4410D
+line 4411this is the history question for date 295
+line 4412A
+line 4413B
+line 4414C
+line 4415D
+line 4416this is the entertainment question for date 295
+line 4417A
+line 4418B
+line 4419C
+line 4420D
+line 4421this is the sports question for date 295
+line 4422A
+line 4423B
+line 4424C
+line 4425D
+line 4426this is the history question for date 296
+line 4427A
+line 4428B
+line 4429C
+line 4430D
+line 4431this is the entertainment question for date 296
+line 4432A
+line 4433B
+line 4434C
+line 4435D
+line 4436this is the sports question for date 296
+line 4437A
+line 4438B
+line 4439C
+line 4440D
+line 4441this is the history question for date 297
+line 4442A
+line 4443B
+line 4444C
+line 4445D
+line 4446this is the entertainment question for date 297
+line 4447A
+line 4448B
+line 4449C
+line 4450D
+line 4451this is the sports question for date 297
+line 4452A
+line 4453B
+line 4454C
+line 4455D
+line 4456this is the history question for date 298
+line 4457A
+line 4458B
+line 4459C
+line 4460D
+line 4461this is the entertainment question for date 298
+line 4462A
+line 4463B
+line 4464C
+line 4465D
+line 4466this is the sports question for date 298
+line 4467A
+line 4468B
+line 4469C
+line 4470D
+line 4471this is the history question for date 299
+line 4472A
+line 4473B
+line 4474C
+line 4475D
+line 4476this is the entertainment question for date 299
+line 4477A
+line 4478B
+line 4479C
+line 4480D
+line 4481this is the sports question for date 299
+line 4482A
+line 4483B
+line 4484C
+line 4485D
+line 4486this is the history question for date 300
+line 4487A
+line 4488B
+line 4489C
+line 4490D
+line 4491this is the entertainment question for date 300
+line 4492A
+line 4493B
+line 4494C
+line 4495D
+line 4496this is the sports question for date 300
+line 4497A
+line 4498B
+line 4499C
+line 4500D
+line 4501this is the history question for date 301
+line 4502A
+line 4503B
+line 4504C
+line 4505D
+line 4506this is the entertainment question for date 301
+line 4507A
+line 4508B
+line 4509C
+line 4510D
+line 4511this is the sports question for date 301
+line 4512A
+line 4513B
+line 4514C
+line 4515D
+line 4516this is the history question for date 302
+line 4517A
+line 4518B
+line 4519C
+line 4520D
+line 4521this is the entertainment question for date 302
+line 4522A
+line 4523B
+line 4524C
+line 4525D
+line 4526this is the sports question for date 302
+line 4527A
+line 4528B
+line 4529C
+line 4530D
+line 4531this is the history question for date 303
+line 4532A
+line 4533B
+line 4534C
+line 4535D
+line 4536this is the entertainment question for date 303
+line 4537A
+line 4538B
+line 4539C
+line 4540D
+line 4541this is the sports question for date 303
+line 4542A
+line 4543B
+line 4544C
+line 4545D
+line 4546this is the history question for date 304
+line 4547A
+line 4548B
+line 4549C
+line 4550D
+line 4551this is the entertainment question for date 304
+line 4552A
+line 4553B
+line 4554C
+line 4555D
+line 4556this is the sports question for date 304
+line 4557A
+line 4558B
+line 4559C
+line 4560D
+line 4561this is the history question for date 305
+line 4562A
+line 4563B
+line 4564C
+line 4565D
+line 4566this is the entertainment question for date 305
+line 4567A
+line 4568B
+line 4569C
+line 4570D
+line 4571this is the sports question for date 305
+line 4572A
+line 4573B
+line 4574C
+line 4575D
+line 4576this is the history question for date 306
+line 4577A
+line 4578B
+line 4579C
+line 4580D
+line 4581this is the entertainment question for date 306
+line 4582A
+line 4583B
+line 4584C
+line 4585D
+line 4586this is the sports question for date 306
+line 4587A
+line 4588B
+line 4589C
+line 4590D
+line 4591this is the history question for date 307
+line 4592A
+line 4593B
+line 4594C
+line 4595D
+line 4596this is the entertainment question for date 307
+line 4597A
+line 4598B
+line 4599C
+line 4600D
+line 4601this is the sports question for date 307
+line 4602A
+line 4603B
+line 4604C
+line 4605D
+line 4606this is the history question for date 308
+line 4607A
+line 4608B
+line 4609C
+line 4610D
+line 4611this is the entertainment question for date 308
+line 4612A
+line 4613B
+line 4614C
+line 4615D
+line 4616this is the sports question for date 308
+line 4617A
+line 4618B
+line 4619C
+line 4620D
+line 4621this is the history question for date 309
+line 4622A
+line 4623B
+line 4624C
+line 4625D
+line 4626this is the entertainment question for date 309
+line 4627A
+line 4628B
+line 4629C
+line 4630D
+line 4631this is the sports question for date 309
+line 4632A
+line 4633B
+line 4634C
+line 4635D
+line 4636this is the history question for date 310
+line 4637A
+line 4638B
+line 4639C
+line 4640D
+line 4641this is the entertainment question for date 310
+line 4642A
+line 4643B
+line 4644C
+line 4645D
+line 4646this is the sports question for date 310
+line 4647A
+line 4648B
+line 4649C
+line 4650D
+line 4651this is the history question for date 311
+line 4652A
+line 4653B
+line 4654C
+line 4655D
+line 4656this is the entertainment question for date 311
+line 4657A
+line 4658B
+line 4659C
+line 4660D
+line 4661this is the sports question for date 311
+line 4662A
+line 4663B
+line 4664C
+line 4665D
+line 4666this is the history question for date 312
+line 4667A
+line 4668B
+line 4669C
+line 4670D
+line 4671this is the entertainment question for date 312
+line 4672A
+line 4673B
+line 4674C
+line 4675D
+line 4676this is the sports question for date 312
+line 4677A
+line 4678B
+line 4679C
+line 4680D
+line 4681this is the history question for date 313
+line 4682A
+line 4683B
+line 4684C
+line 4685D
+line 4686this is the entertainment question for date 313
+line 4687A
+line 4688B
+line 4689C
+line 4690D
+line 4691this is the sports question for date 313
+line 4692A
+line 4693B
+line 4694C
+line 4695D
+line 4696this is the history question for date 314
+line 4697A
+line 4698B
+line 4699C
+line 4700D
+line 4701this is the entertainment question for date 314
+line 4702A
+line 4703B
+line 4704C
+line 4705D
+line 4706this is the sports question for date 314
+line 4707A
+line 4708B
+line 4709C
+line 4710D
+line 4711this is the history question for date 315
+line 4712A
+line 4713B
+line 4714C
+line 4715D
+line 4716this is the entertainment question for date 315
+line 4717A
+line 4718B
+line 4719C
+line 4720D
+line 4721this is the sports question for date 315
+line 4722A
+line 4723B
+line 4724C
+line 4725D
+line 4726this is the history question for date 316
+line 4727A
+line 4728B
+line 4729C
+line 4730D
+line 4731this is the entertainment question for date 316
+line 4732A
+line 4733B
+line 4734C
+line 4735D
+line 4736this is the sports question for date 316
+line 4737A
+line 4738B
+line 4739C
+line 4740D
+line 4741this is the history question for date 317
+line 4742A
+line 4743B
+line 4744C
+line 4745D
+line 4746this is the entertainment question for date 317
+line 4747A
+line 4748B
+line 4749C
+line 4750D
+line 4751this is the sports question for date 317
+line 4752A
+line 4753B
+line 4754C
+line 4755D
+line 4756this is the history question for date 318
+line 4757A
+line 4758B
+line 4759C
+line 4760D
+line 4761this is the entertainment question for date 318
+line 4762A
+line 4763B
+line 4764C
+line 4765D
+line 4766this is the sports question for date 318
+line 4767A
+line 4768B
+line 4769C
+line 4770D
+line 4771this is the history question for date 319
+line 4772A
+line 4773B
+line 4774C
+line 4775D
+line 4776this is the entertainment question for date 319
+line 4777A
+line 4778B
+line 4779C
+line 4780D
+line 4781this is the sports question for date 319
+line 4782A
+line 4783B
+line 4784C
+line 4785D
+line 4786this is the history question for date 320
+line 4787A
+line 4788B
+line 4789C
+line 4790D
+line 4791this is the entertainment question for date 320
+line 4792A
+line 4793B
+line 4794C
+line 4795D
+line 4796this is the sports question for date 320
+line 4797A
+line 4798B
+line 4799C
+line 4800D
+line 4801this is the history question for date 321
+line 4802A
+line 4803B
+line 4804C
+line 4805D
+line 4806this is the entertainment question for date 321
+line 4807A
+line 4808B
+line 4809C
+line 4810D
+line 4811this is the sports question for date 321
+line 4812A
+line 4813B
+line 4814C
+line 4815D
+line 4816this is the history question for date 322
+line 4817A
+line 4818B
+line 4819C
+line 4820D
+line 4821this is the entertainment question for date 322
+line 4822A
+line 4823B
+line 4824C
+line 4825D
+line 4826this is the sports question for date 322
+line 4827A
+line 4828B
+line 4829C
+line 4830D
+line 4831this is the history question for date 323
+line 4832A
+line 4833B
+line 4834C
+line 4835D
+line 4836this is the entertainment question for date 323
+line 4837A
+line 4838B
+line 4839C
+line 4840D
+line 4841this is the sports question for date 323
+line 4842A
+line 4843B
+line 4844C
+line 4845D
+line 4846this is the history question for date 324
+line 4847A
+line 4848B
+line 4849C
+line 4850D
+line 4851this is the entertainment question for date 324
+line 4852A
+line 4853B
+line 4854C
+line 4855D
+line 4856this is the sports question for date 324
+line 4857A
+line 4858B
+line 4859C
+line 4860D
+line 4861this is the history question for date 325
+line 4862A
+line 4863B
+line 4864C
+line 4865D
+line 4866this is the entertainment question for date 325
+line 4867A
+line 4868B
+line 4869C
+line 4870D
+line 4871this is the sports question for date 325
+line 4872A
+line 4873B
+line 4874C
+line 4875D
+line 4876this is the history question for date 326
+line 4877A
+line 4878B
+line 4879C
+line 4880D
+line 4881this is the entertainment question for date 326
+line 4882A
+line 4883B
+line 4884C
+line 4885D
+line 4886this is the sports question for date 326
+line 4887A
+line 4888B
+line 4889C
+line 4890D
+line 4891this is the history question for date 327
+line 4892A
+line 4893B
+line 4894C
+line 4895D
+line 4896this is the entertainment question for date 327
+line 4897A
+line 4898B
+line 4899C
+line 4900D
+line 4901this is the sports question for date 327
+line 4902A
+line 4903B
+line 4904C
+line 4905D
+line 4906this is the history question for date 328
+line 4907A
+line 4908B
+line 4909C
+line 4910D
+line 4911this is the entertainment question for date 328
+line 4912A
+line 4913B
+line 4914C
+line 4915D
+line 4916this is the sports question for date 328
+line 4917A
+line 4918B
+line 4919C
+line 4920D
+line 4921this is the history question for date 329
+line 4922A
+line 4923B
+line 4924C
+line 4925D
+line 4926this is the entertainment question for date 329
+line 4927A
+line 4928B
+line 4929C
+line 4930D
+line 4931this is the sports question for date 329
+line 4932A
+line 4933B
+line 4934C
+line 4935D
+line 4936this is the history question for date 330
+line 4937A
+line 4938B
+line 4939C
+line 4940D
+line 4941this is the entertainment question for date 330
+line 4942A
+line 4943B
+line 4944C
+line 4945D
+line 4946this is the sports question for date 330
+line 4947A
+line 4948B
+line 4949C
+line 4950D
+line 4951this is the history question for date 331
+line 4952A
+line 4953B
+line 4954C
+line 4955D
+line 4956this is the entertainment question for date 331
+line 4957A
+line 4958B
+line 4959C
+line 4960D
+line 4961this is the sports question for date 331
+line 4962A
+line 4963B
+line 4964C
+line 4965D
+line 4966this is the history question for date 332
+line 4967A
+line 4968B
+line 4969C
+line 4970D
+line 4971this is the entertainment question for date 332
+line 4972A
+line 4973B
+line 4974C
+line 4975D
+line 4976this is the sports question for date 332
+line 4977A
+line 4978B
+line 4979C
+line 4980D
+line 4981this is the history question for date 333
+line 4982A
+line 4983B
+line 4984C
+line 4985D
+line 4986this is the entertainment question for date 333
+line 4987A
+line 4988B
+line 4989C
+line 4990D
+line 4991this is the sports question for date 333
+line 4992A
+line 4993B
+line 4994C
+line 4995D
+line 4996this is the history question for date 334
+line 4997A
+line 4998B
+line 4999C
+line 5000D
+line 5001this is the entertainment question for date 334
+line 5002A
+line 5003B
+line 5004C
+line 5005D
+line 5006this is the sports question for date 334
+line 5007A
+line 5008B
+line 5009C
+line 5010D
+line 5011this is the history question for date 335
+line 5012A
+line 5013B
+line 5014C
+line 5015D
+line 5016this is the entertainment question for date 335
+line 5017A
+line 5018B
+line 5019C
+line 5020D
+line 5021this is the sports question for date 335
+line 5022A
+line 5023B
+line 5024C
+line 5025D
+line 5026this is the history question for date 336
+line 5027A
+line 5028B
+line 5029C
+line 5030D
+line 5031this is the entertainment question for date 336
+line 5032A
+line 5033B
+line 5034C
+line 5035D
+line 5036this is the sports question for date 336
+line 5037A
+line 5038B
+line 5039C
+line 5040D
+line 5041this is the history question for date 337
+line 5042A
+line 5043B
+line 5044C
+line 5045D
+line 5046this is the entertainment question for date 337
+line 5047A
+line 5048B
+line 5049C
+line 5050D
+line 5051this is the sports question for date 337
+line 5052A
+line 5053B
+line 5054C
+line 5055D
+line 5056this is the history question for date 338
+line 5057A
+line 5058B
+line 5059C
+line 5060D
+line 5061this is the entertainment question for date 338
+line 5062A
+line 5063B
+line 5064C
+line 5065D
+line 5066this is the sports question for date 338
+line 5067A
+line 5068B
+line 5069C
+line 5070D
+line 5071this is the history question for date 339
+line 5072A
+line 5073B
+line 5074C
+line 5075D
+line 5076this is the entertainment question for date 339
+line 5077A
+line 5078B
+line 5079C
+line 5080D
+line 5081this is the sports question for date 339
+line 5082A
+line 5083B
+line 5084C
+line 5085D
+line 5086this is the history question for date 340
+line 5087A
+line 5088B
+line 5089C
+line 5090D
+line 5091this is the entertainment question for date 340
+line 5092A
+line 5093B
+line 5094C
+line 5095D
+line 5096this is the sports question for date 340
+line 5097A
+line 5098B
+line 5099C
+line 5100D
+line 5101this is the history question for date 341
+line 5102A
+line 5103B
+line 5104C
+line 5105D
+line 5106this is the entertainment question for date 341
+line 5107A
+line 5108B
+line 5109C
+line 5110D
+line 5111this is the sports question for date 341
+line 5112A
+line 5113B
+line 5114C
+line 5115D
+line 5116this is the history question for date 342
+line 5117A
+line 5118B
+line 5119C
+line 5120D
+line 5121this is the entertainment question for date 342
+line 5122A
+line 5123B
+line 5124C
+line 5125D
+line 5126this is the sports question for date 342
+line 5127A
+line 5128B
+line 5129C
+line 5130D
+line 5131this is the history question for date 343
+line 5132A
+line 5133B
+line 5134C
+line 5135D
+line 5136this is the entertainment question for date 343
+line 5137A
+line 5138B
+line 5139C
+line 5140D
+line 5141this is the sports question for date 343
+line 5142A
+line 5143B
+line 5144C
+line 5145D
+line 5146this is the history question for date 344
+line 5147A
+line 5148B
+line 5149C
+line 5150D
+line 5151this is the entertainment question for date 344
+line 5152A
+line 5153B
+line 5154C
+line 5155D
+line 5156this is the sports question for date 344
+line 5157A
+line 5158B
+line 5159C
+line 5160D
+line 5161this is the history question for date 345
+line 5162A
+line 5163B
+line 5164C
+line 5165D
+line 5166this is the entertainment question for date 345
+line 5167A
+line 5168B
+line 5169C
+line 5170D
+line 5171this is the sports question for date 345
+line 5172A
+line 5173B
+line 5174C
+line 5175D
+line 5176this is the history question for date 346
+line 5177A
+line 5178B
+line 5179C
+line 5180D
+line 5181this is the entertainment question for date 346
+line 5182A
+line 5183B
+line 5184C
+line 5185D
+line 5186this is the sports question for date 346
+line 5187A
+line 5188B
+line 5189C
+line 5190D
+line 5191this is the history question for date 347
+line 5192A
+line 5193B
+line 5194C
+line 5195D
+line 5196this is the entertainment question for date 347
+line 5197A
+line 5198B
+line 5199C
+line 5200D
+line 5201this is the sports question for date 347
+line 5202A
+line 5203B
+line 5204C
+line 5205D
+line 5206this is the history question for date 348
+line 5207A
+line 5208B
+line 5209C
+line 5210D
+line 5211this is the entertainment question for date 348
+line 5212A
+line 5213B
+line 5214C
+line 5215D
+line 5216this is the sports question for date 348
+line 5217A
+line 5218B
+line 5219C
+line 5220D
+line 5221this is the history question for date 349
+line 5222A
+line 5223B
+line 5224C
+line 5225D
+line 5226this is the entertainment question for date 349
+line 5227A
+line 5228B
+line 5229C
+line 5230D
+line 5231this is the sports question for date 349
+line 5232A
+line 5233B
+line 5234C
+line 5235D
+line 5236this is the history question for date 350
+line 5237A
+line 5238B
+line 5239C
+line 5240D
+line 5241this is the entertainment question for date 350
+line 5242A
+line 5243B
+line 5244C
+line 5245D
+line 5246this is the sports question for date 350
+line 5247A
+line 5248B
+line 5249C
+line 5250D
+line 5251this is the history question for date 351
+line 5252A
+line 5253B
+line 5254C
+line 5255D
+line 5256this is the entertainment question for date 351
+line 5257A
+line 5258B
+line 5259C
+line 5260D
+line 5261this is the sports question for date 351
+line 5262A
+line 5263B
+line 5264C
+line 5265D
+line 5266this is the history question for date 352
+line 5267A
+line 5268B
+line 5269C
+line 5270D
+line 5271this is the entertainment question for date 352
+line 5272A
+line 5273B
+line 5274C
+line 5275D
+line 5276this is the sports question for date 352
+line 5277A
+line 5278B
+line 5279C
+line 5280D
+line 5281this is the history question for date 353
+line 5282A
+line 5283B
+line 5284C
+line 5285D
+line 5286this is the entertainment question for date 353
+line 5287A
+line 5288B
+line 5289C
+line 5290D
+line 5291this is the sports question for date 353
+line 5292A
+line 5293B
+line 5294C
+line 5295D
+line 5296this is the history question for date 354
+line 5297A
+line 5298B
+line 5299C
+line 5300D
+line 5301this is the entertainment question for date 354
+line 5302A
+line 5303B
+line 5304C
+line 5305D
+line 5306this is the sports question for date 354
+line 5307A
+line 5308B
+line 5309C
+line 5310D
+line 5311this is the history question for date 355
+line 5312A
+line 5313B
+line 5314C
+line 5315D
+line 5316this is the entertainment question for date 355
+line 5317A
+line 5318B
+line 5319C
+line 5320D
+line 5321this is the sports question for date 355
+line 5322A
+line 5323B
+line 5324C
+line 5325D
+line 5326this is the history question for date 356
+line 5327A
+line 5328B
+line 5329C
+line 5330D
+line 5331this is the entertainment question for date 356
+line 5332A
+line 5333B
+line 5334C
+line 5335D
+line 5336this is the sports question for date 356
+line 5337A
+line 5338B
+line 5339C
+line 5340D
+line 5341this is the history question for date 357
+line 5342A
+line 5343B
+line 5344C
+line 5345D
+line 5346this is the entertainment question for date 357
+line 5347A
+line 5348B
+line 5349C
+line 5350D
+line 5351this is the sports question for date 357
+line 5352A
+line 5353B
+line 5354C
+line 5355D
+line 5356this is the history question for date 358
+line 5357A
+line 5358B
+line 5359C
+line 5360D
+line 5361this is the entertainment question for date 358
+line 5362A
+line 5363B
+line 5364C
+line 5365D
+line 5366this is the sports question for date 358
+line 5367A
+line 5368B
+line 5369C
+line 5370D
+line 5371this is the history question for date 359
+line 5372A
+line 5373B
+line 5374C
+line 5375D
+line 5376this is the entertainment question for date 359
+line 5377A
+line 5378B
+line 5379C
+line 5380D
+line 5381this is the sports question for date 359
+line 5382A
+line 5383B
+line 5384C
+line 5385D
+line 5386this is the history question for date 360
+line 5387A
+line 5388B
+line 5389C
+line 5390D
+line 5391this is the entertainment question for date 360
+line 5392A
+line 5393B
+line 5394C
+line 5395D
+line 5396this is the sports question for date 360
+line 5397A
+line 5398B
+line 5399C
+line 5400D
+line 5401this is the history question for date 361
+line 5402A
+line 5403B
+line 5404C
+line 5405D
+line 5406this is the entertainment question for date 361
+line 5407A
+line 5408B
+line 5409C
+line 5410D
+line 5411this is the sports question for date 361
+line 5412A
+line 5413B
+line 5414C
+line 5415D
+line 5416this is the history question for date 362
+line 5417A
+line 5418B
+line 5419C
+line 5420D
+line 5421this is the entertainment question for date 362
+line 5422A
+line 5423B
+line 5424C
+line 5425D
+line 5426this is the sports question for date 362
+line 5427A
+line 5428B
+line 5429C
+line 5430D
+line 5431this is the history question for date 363
+line 5432A
+line 5433B
+line 5434C
+line 5435D
+line 5436this is the entertainment question for date 363
+line 5437A
+line 5438B
+line 5439C
+line 5440D
+line 5441this is the sports question for date 363
+line 5442A
+line 5443B
+line 5444C
+line 5445D
+line 5446this is the history question for date 364
+line 5447A
+line 5448B
+line 5449C
+line 5450D
+line 5451this is the entertainment question for date 364
+line 5452A
+line 5453B
+line 5454C
+line 5455D
+line 5456this is the sports question for date 364
+line 5457A
+line 5458B
+line 5459C
+line 5460D
+line 5461this is the history question for date 365
+line 5462A
+line 5463B
+line 5464C
+line 5465D
+line 5466this is the entertainment question for date 365
+line 5467A
+line 5468B
+line 5469C
+line 5470D
+line 5471this is the sports question for date 365
+line 5472A
+line 5473B
+line 5474C
+line 5475D
